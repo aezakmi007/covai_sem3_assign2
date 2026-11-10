@@ -1,0 +1,99 @@
+[
+  {
+    "id": "Q01",
+    "question": "What is the waiting period for pre-existing diseases (PED) under the Optima Care health policy?",
+    "target_doc": "health_policy_optima_care.md",
+    "target_clause_id": "Clause 3.3",
+    "expected_answer": "Pre-existing diseases are subject to a mandatory waiting period of 36 months of continuous coverage before claims are payable.",
+    "key_terms": ["waiting period", "pre-existing disease", "36 months", "Clause 3.3"]
+  },
+  {
+    "id": "Q02",
+    "question": "How many days of pre-hospitalization and post-hospitalization expenses are covered?",
+    "target_doc": "health_policy_optima_care.md",
+    "target_clause_id": "Clause 2.3",
+    "expected_answer": "Pre-hospitalization expenses are covered up to 60 days prior to admission, and post-hospitalization expenses are covered up to 180 days following discharge.",
+    "key_terms": ["60 days", "180 days", "pre-hospitalization", "post-hospitalization"]
+  },
+  {
+    "id": "Q03",
+    "question": "Is cataract surgery subject to any monetary sub-limit?",
+    "target_doc": "health_policy_optima_care.md",
+    "target_clause_id": "Clause 4.3",
+    "expected_answer": "Yes, cataract surgery is capped at a maximum of ₹40,000 per eye under Plan A, and ₹60,000 per eye under Plan B.",
+    "key_terms": ["cataract", "sub-limit", "₹40,000", "₹60,000", "Clause 4.3"]
+  },
+  {
+    "id": "Q04",
+    "question": "Under what circumstance is dental surgery or treatment covered in health insurance?",
+    "target_doc": "health_policy_optima_care.md",
+    "target_clause_id": "Clause 5.10",
+    "expected_answer": "Dental treatment or surgery is excluded unless it requires in-patient hospitalization necessitated by an accidental bodily injury.",
+    "key_terms": ["dental", "accidental bodily injury", "Clause 5.10", "hospitalization"]
+  },
+  {
+    "id": "Q05",
+    "question": "What is the compulsory deductible for a private car with engine capacity exceeding 1,500 cc?",
+    "target_doc": "motor_policy_secure_drive.md",
+    "target_clause_id": "Clause 4.1",
+    "expected_answer": "The compulsory deductible is ₹2,000 per claim for private cars with engine capacity exceeding 1,500 cc (and ₹1,000 for engines not exceeding 1,500 cc).",
+    "key_terms": ["compulsory deductible", "1,500 cc", "₹2,000", "Clause 4.1"]
+  },
+  {
+    "id": "Q06",
+    "question": "What threshold qualifies a damaged car as a Constructive Total Loss (CTL)?",
+    "target_doc": "motor_policy_secure_drive.md",
+    "target_clause_id": "Clause 1.4",
+    "expected_answer": "A vehicle is considered a Constructive Total Loss when the aggregate cost of retrieval and repair exceeds 75% of the Insured Declared Value (IDV).",
+    "key_terms": ["Constructive Total Loss", "CTL", "75%", "IDV", "Clause 1.4"]
+  },
+  {
+    "id": "Q07",
+    "question": "What depreciation percentage is deducted on rubber parts and airbags in partial loss motor claims?",
+    "target_doc": "motor_policy_secure_drive.md",
+    "target_clause_id": "Clause 1.2",
+    "expected_answer": "A 50% depreciation rate is deducted on rubber, nylon, plastic parts, tyres, tubes, batteries, and airbags.",
+    "key_terms": ["depreciation", "50%", "rubber", "airbags", "Clause 1.2"]
+  },
+  {
+    "id": "Q08",
+    "question": "Does the base car insurance cover engine damage caused by water ingression or hydrostatic lock?",
+    "target_doc": "motor_policy_secure_drive.md",
+    "target_clause_id": "Clause 5.7",
+    "expected_answer": "No, damage caused by water ingression or hydrostatic lock from attempting to restart an inundated vehicle is excluded under base cover unless an Engine Protector add-on is active.",
+    "key_terms": ["hydrostatic lock", "water ingression", "excluded", "Clause 5.7", "Engine Protector"]
+  },
+  {
+    "id": "Q09",
+    "question": "How many consecutive claim-free years are needed to reach the maximum 50% No Claim Bonus (NCB)?",
+    "target_doc": "motor_policy_secure_drive.md",
+    "target_clause_id": "Clause 4.3",
+    "expected_answer": "5 consecutive claim-free years are required to reach the maximum NCB discount of 50%.",
+    "key_terms": ["No Claim Bonus", "NCB", "5 consecutive", "50%", "Clause 4.3"]
+  },
+  {
+    "id": "Q10",
+    "question": "Within how many days can a policyholder cancel their health policy under the Free-Look period?",
+    "target_doc": "irdai_guidelines_grievance.md",
+    "target_clause_id": "Clause 1.1",
+    "expected_answer": "A policyholder has 15 days from physical receipt of the policy document (or 30 days for electronic/distance marketing policies) to cancel during the Free-Look Period.",
+    "key_terms": ["Free-Look", "15 days", "30 days", "Clause 1.1"]
+  },
+  {
+    "id": "Q11",
+    "question": "What is the maximum dispute claim value that can be submitted to the Insurance Ombudsman?",
+    "target_doc": "irdai_guidelines_grievance.md",
+    "target_clause_id": "Clause 3.3",
+    "expected_answer": "The total claim value, including compensation sought, must not exceed ₹30,00,000 (Rupees Thirty Lakhs) to fall under Ombudsman jurisdiction.",
+    "key_terms": ["Insurance Ombudsman", "₹30,00,000", "Thirty Lakhs", "Clause 3.3"]
+  },
+  {
+    "id": "Q12",
+    "question": "What penalty interest must an insurer pay if claim payment is delayed beyond 30 days?",
+    "target_doc": "irdai_guidelines_grievance.md",
+    "target_clause_id": "Clause 2.4",
+    "expected_answer": "The insurer must pay penal interest at 2% above the prevailing RBI Bank Rate from the date of final document receipt until the date of payment.",
+    "key_terms": ["penal interest", "2% above bank rate", "delayed claim", "Clause 2.4"]
+  }
+]
+

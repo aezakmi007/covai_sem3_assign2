@@ -1,0 +1,45 @@
+# 1. Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# 2. Python compiled bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# 3. Jupyter Notebook checkpoints and caches
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# 4. Environment variables & API credentials (NEVER commit secrets!)
+.env
+*.env
+.env.*
+secrets.json
+
+# 5. Local Vector Database & SQLite temporary files
+chroma_db/
+*.db-journal
+*.sqlite3-journal
+
+# 6. HuggingFace / PyTorch local model cache
+.cache/
+hf_cache/
+
+# 7. macOS system junk files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# 8. IDE specific configurations
+.vscode/
+.idea/
+*.swp
+*.swo

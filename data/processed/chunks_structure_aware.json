@@ -1,0 +1,1296 @@
+[
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_000",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "Preamble / Metadata",
+    "clause_id": "Preamble_0",
+    "strategy": "structure_aware",
+    "text": "# OPTIMA CARE HEALTH INSURANCE POLICY - POLICY WORDING\n\n**Product Name:** Optima Care Comprehensive Health Insurance  \n**Product UIN:** IRDAI/HLT/OC/P-H/V.1/2024-25  \n**Regulating Authority:** Insurance Regulatory and Development Authority of India (IRDAI)  \n**Document Type:** Standard Retail Health Insurance Contract Terms and Conditions  \n\n---",
+    "char_length": 347,
+    "clauses_present": [],
+    "clause_count": 0
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_001",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.1: Accident\nAn accident means a sudden, unforeseen, and involuntary event caused by external, violent, and visible means.",
+    "char_length": 134,
+    "clauses_present": [
+      "Clause 1.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_002",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.2: Admission\nAdmission means the formal entry and registration of the Insured Person into a registered Hospital for medically necessary treatment of an Illness or Injury.",
+    "char_length": 183,
+    "clauses_present": [
+      "Clause 1.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_003",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.3: AYUSH Treatment\nAYUSH Treatment refers to medical and/or hospitalization treatments given under Ayurveda, Yoga and Naturopathy, Unani, Siddha, and Homeopathy systems in a government hospital or recognized institute.",
+    "char_length": 231,
+    "clauses_present": [
+      "Clause 1.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_004",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.4: Cashless Facility\nCashless Facility means a facility extended by the Insurer to the Insured where the medical expenses incurred by the Insured at a Network Hospital are directly settled by the Insurer to the Hospital, subject to policy terms and agreed tariff.",
+    "char_length": 276,
+    "clauses_present": [
+      "Clause 1.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_005",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.5",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.5: Co-payment\nCo-payment means a cost-sharing requirement under this health insurance policy that provides that the Policyholder/Insured will bear a specified percentage of the admissible claim amount. A Co-payment does not reduce the Sum Insured.",
+    "char_length": 260,
+    "clauses_present": [
+      "Clause 1.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_006",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.6",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.6: Day Care Treatment\nDay Care Treatment refers to medical treatment and/or surgical procedures undertaken under general or local anesthesia in a hospital/daycare center in less than 24 hours of admission because of technological advancements, which would otherwise have required hospitalization of more than 24 hours.",
+    "char_length": 331,
+    "clauses_present": [
+      "Clause 1.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_007",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.7",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.7: Deductible\nDeductible means a cost-sharing requirement that provides that the Insurer will not be liable for a specified rupee amount of the covered expenses, which will first be borne by the Insured Person before benefits become payable by the Insurer. A deductible does not reduce the Sum Insured.",
+    "char_length": 315,
+    "clauses_present": [
+      "Clause 1.7"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_008",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.8",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.8: Domiciliary Hospitalization\nDomiciliary Hospitalization means medical treatment for an illness/disease/injury which in the normal course would require care and treatment at a hospital but is actually taken while confined at home under specific medical conditions where the patient cannot be moved or hospital beds are unavailable.",
+    "char_length": 346,
+    "clauses_present": [
+      "Clause 1.8"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_009",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.9",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.9: Grace Period\nGrace Period means the specified period of 30 days immediately following the premium due date during which a payment can be made to renew or continue a policy in force without loss of continuity benefits such as waiting periods.",
+    "char_length": 257,
+    "clauses_present": [
+      "Clause 1.9"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_010",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.10",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.10: Hospital\nA Hospital means any institution established for in-patient care and day care treatment of illness and/or injuries and which has been registered as a hospital with local authorities under Clinical Establishments Act and complies with minimum bed criteria (at least 15 beds in towns with population > 10 lakhs, 10 beds in all other towns).",
+    "char_length": 364,
+    "clauses_present": [
+      "Clause 1.10"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_011",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.11",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.11: Illness\nIllness means a sickness or a disease or pathological condition leading to impairment of normal physiological function which manifests itself during the Policy Period and requires medical treatment.",
+    "char_length": 223,
+    "clauses_present": [
+      "Clause 1.11"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_012",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.12",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.12: Injury\nInjury means accidental physical bodily harm solely and directly caused by external, violent, visible, and evident means which is verified and certified by a registered Medical Practitioner.",
+    "char_length": 214,
+    "clauses_present": [
+      "Clause 1.12"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_013",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.13",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.13: Inpatient Hospitalization\nInpatient Hospitalization means admission in a Hospital for a minimum period of 24 consecutive hours for Medically Necessary Treatment.",
+    "char_length": 178,
+    "clauses_present": [
+      "Clause 1.13"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_014",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.14",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.14: Intensive Care Unit (ICU)\nIntensive Care Unit means an identified section, ward, or wing of a hospital which is specially equipped with monitoring and life support systems and staffed with dedicated medical personnel for critically ill patients.",
+    "char_length": 262,
+    "clauses_present": [
+      "Clause 1.14"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_015",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.15",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.15: Medically Necessary Treatment\nMedically Necessary Treatment means any treatment, test, medication, or stay in hospital which is required for the medical management of illness or injury, conforms to standard medical practice, and is not solely for the convenience of the patient or doctor.",
+    "char_length": 305,
+    "clauses_present": [
+      "Clause 1.15"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_016",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.16",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.16: Network Hospital\nNetwork Hospital means hospitals, health care providers, or clinics enlisted by an Insurer or by a Third Party Administrator (TPA) to provide medical services to an Insured on a Cashless basis.",
+    "char_length": 227,
+    "clauses_present": [
+      "Clause 1.16"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_017",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.17",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.17: Non-Network Hospital\nNon-Network Hospital means any registered hospital or medical facility that is not part of the network of the Insurer or TPA.",
+    "char_length": 163,
+    "clauses_present": [
+      "Clause 1.17"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_018",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.18",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.18: Pre-Existing Disease (PED)\nPre-Existing Disease means any condition, ailment, injury, or disease that is diagnosed by a physician within 36 months prior to the effective date of the policy issued by the Insurer or for which medical advice or treatment was recommended or received within 36 months prior to policy inception.",
+    "char_length": 340,
+    "clauses_present": [
+      "Clause 1.18"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_019",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.19",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.19: Pre-Hospitalization Medical Expenses\nPre-Hospitalization Medical Expenses means medical expenses incurred immediately before the Insured Person is hospitalized, provided that such expenses are incurred for the same condition for which hospitalization occurred, up to a maximum period of 60 days.",
+    "char_length": 312,
+    "clauses_present": [
+      "Clause 1.19"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_020",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.20",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.20: Post-Hospitalization Medical Expenses\nPost-Hospitalization Medical Expenses means medical expenses incurred immediately after the Insured Person is discharged from the hospital, provided that such expenses are incurred for the same condition for which hospitalization occurred, up to a maximum period of 180 days.",
+    "char_length": 330,
+    "clauses_present": [
+      "Clause 1.20"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_021",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.21",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.21: Reasonable and Customary Charges\nReasonable and Customary Charges means the charges for services or supplies which are standard and customary in the geographic area where the treatment is provided for similar illness or injury.",
+    "char_length": 244,
+    "clauses_present": [
+      "Clause 1.21"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_022",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.22",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.22: Room Rent Limit\nRoom Rent Limit means the maximum daily amount covered by the Insurer towards room and boarding charges during inpatient hospitalization. Under Plan A, Room Rent is capped at 1% of Sum Insured per day. Under Plan B (Optima Super), Single Private Air Conditioned room is allowed with No Room Rent Capping.",
+    "char_length": 337,
+    "clauses_present": [
+      "Clause 1.22"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_023",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.23",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.23: Sum Insured\nSum Insured means the pre-agreed maximum liability of the Insurer under this policy as specified in the Policy Schedule for any one policy year.",
+    "char_length": 173,
+    "clauses_present": [
+      "Clause 1.23"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_024",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 1: DEFINITIONS AND INTERPRETATIONS",
+    "clause_id": "Clause 1.24",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.24: Surgery or Surgical Procedure\nSurgery means manual and/or operative procedure for correction of deformities, repair of injuries, or relief of suffering, performed by a qualified surgeon in an operating theater.\n\n---",
+    "char_length": 232,
+    "clauses_present": [
+      "Clause 1.24"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_025",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.1: Inpatient Hospitalization Expenses\nThe Insurer will cover medical expenses incurred for Inpatient Hospitalization exceeding 24 hours, including room boarding and nursing expenses, Intensive Care Unit (ICU) charges, fees of Medical Practitioner, Surgeon, Anesthetist, and Consultant, and charges for anesthesia, blood, oxygen, operation theater, surgical appliances, and diagnostic tests.",
+    "char_length": 403,
+    "clauses_present": [
+      "Clause 2.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_026",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.2: Intensive Care Unit (ICU) Coverage\nICU charges are covered up to actual expenses under Plan B. Under Plan A, ICU coverage is capped at 2% of the Sum Insured per day. Pro-rata proportion deductions will apply to associate medical expenses if room rent exceeding eligibility is selected.",
+    "char_length": 301,
+    "clauses_present": [
+      "Clause 2.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_027",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.3: Pre-Hospitalization Coverage\nPre-hospitalization medical expenses are reimbursed up to 60 days prior to the date of admission, provided the inpatient hospitalization claim is admissible under Clause 2.1.",
+    "char_length": 219,
+    "clauses_present": [
+      "Clause 2.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_028",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.4: Post-Hospitalization Coverage\nPost-hospitalization medical expenses are reimbursed up to 180 days following the date of discharge from the hospital, provided the primary hospitalization claim is admissible.",
+    "char_length": 222,
+    "clauses_present": [
+      "Clause 2.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_029",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.5",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.5: Day Care Procedures\nMedical expenses incurred for all Day Care Procedures specified in Annexure I (over 500 procedures) are covered up to the Sum Insured, even though hospitalization is less than 24 hours, provided modern technological advancement necessitated shorter stay. Outpatient consultations are not covered under this clause.",
+    "char_length": 350,
+    "clauses_present": [
+      "Clause 2.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_030",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.6",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.6: Domiciliary Hospitalization Benefit\nDomiciliary hospitalization is covered up to a maximum of 10% of the Sum Insured subject to a maximum of \u20b950,000 per policy year, provided medical treatment continues for at least 3 consecutive days and the condition fulfills the definition under Clause 1.8. Bronchitis, Asthma, Cough and Cold, and Diarrhea are excluded from Domiciliary benefits.",
+    "char_length": 399,
+    "clauses_present": [
+      "Clause 2.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_031",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.7",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.7: Road Ambulance Cover\nThe policy covers road ambulance expenses incurred for transfer to the nearest hospital with adequate medical facilities, subject to a limit of \u20b92,500 per hospitalization and a maximum of \u20b95,000 per policy year.",
+    "char_length": 248,
+    "clauses_present": [
+      "Clause 2.7"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_032",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.8",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.8: AYUSH Inpatient Treatment\nInpatient treatment taken under recognized AYUSH systems in a government AYUSH hospital or accredited institute is covered up to 100% of the Sum Insured without sub-limits, provided treatment is for an illness that otherwise qualifies for inpatient hospitalization.",
+    "char_length": 307,
+    "clauses_present": [
+      "Clause 2.8"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_033",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.9",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.9: Organ Donor Expenses\nMedical expenses incurred for in-patient hospitalization of an organ donor harvesting organ for the Insured Person are covered up to the Sum Insured, provided the organ is donated in compliance with Transplantation of Human Organs Act, 1994. Screening expenses of donors are excluded.",
+    "char_length": 321,
+    "clauses_present": [
+      "Clause 2.9"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_034",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.10",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.10: Cumulative Bonus (No Claim Bonus)\nFor every claim-free policy year, the Sum Insured shall be increased by 10% up to a maximum of 100% of the basic Sum Insured, provided the policy is renewed without any break. In the event of a claim, the accumulated bonus is reduced by 10% at renewal, but the base Sum Insured remains untouched.",
+    "char_length": 347,
+    "clauses_present": [
+      "Clause 2.10"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_035",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 2: BASE COVERAGE BENEFITS",
+    "clause_id": "Clause 2.11",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.11: Restoration of Sum Insured\nIf the base Sum Insured and Cumulative Bonus are exhausted during the policy year due to claims paid, a 100% restoration of the base Sum Insured will be triggered automatically once per policy year for unrelated illnesses or injuries. Restoration cannot be utilized for the same illness for which a claim was paid within the same year.\n\n---",
+    "char_length": 384,
+    "clauses_present": [
+      "Clause 2.11"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_036",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 3: WAITING PERIODS",
+    "clause_id": "Clause 3.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.1: Initial Waiting Period (30 Days)\nA waiting period of 30 days from the inception date of the policy applies to all claims, except accidental bodily injury. Any illness diagnosed or manifesting during the first 30 days of coverage is permanently excluded from coverage under this policy.",
+    "char_length": 301,
+    "clauses_present": [
+      "Clause 3.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_037",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 3: WAITING PERIODS",
+    "clause_id": "Clause 3.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.2: Specific Disease Waiting Period (24 Months)\nA mandatory waiting period of 24 consecutive months of continuous coverage applies to the following listed conditions: Benign prostatic hypertrophy, Hernia, Hydrocele, Fistula and Fissure in ano, Piles, Sinusitis, Tonsillitis, Gall bladder stones, Renal calculi, Cataract, Hysterectomy for non-malignant conditions, Joint replacement surgeries unless due to accident, Osteoarthritis, and Spinal disc disorders.",
+    "char_length": 470,
+    "clauses_present": [
+      "Clause 3.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_038",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 3: WAITING PERIODS",
+    "clause_id": "Clause 3.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.3: Pre-Existing Disease Waiting Period (36 Months)\nMedical expenses directly or indirectly related to any Pre-Existing Disease (PED) as defined under Clause 1.18 will not be covered until 36 months of continuous coverage have elapsed since the inception of the first policy with the Insurer. If porting from another insurer, continuity benefit on the elapsed waiting period is credited as per IRDAI portability guidelines.",
+    "char_length": 435,
+    "clauses_present": [
+      "Clause 3.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_039",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 3: WAITING PERIODS",
+    "clause_id": "Clause 3.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.4: Moratorium Period (60 Months)\nAfter 60 continuous months of coverage under this policy, no claim shall be contestable by the Insurer on grounds of misrepresentation or non-disclosure of health conditions, except in instances of proven fraud.\n\n---",
+    "char_length": 262,
+    "clauses_present": [
+      "Clause 3.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_040",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 4: DEDUCTIBLES, CO-PAYMENTS, AND LIMITS",
+    "clause_id": "Clause 4.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.1: Standard Deductible Option\nWhere the policyholder opts for a Voluntary Deductible of \u20b910,000 or \u20b925,000 to reduce annual premium, the Insured must bear the selected deductible amount on aggregate admissible claims during each policy year before the Insurer pays any claim benefit.",
+    "char_length": 296,
+    "clauses_present": [
+      "Clause 4.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_041",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 4: DEDUCTIBLES, CO-PAYMENTS, AND LIMITS",
+    "clause_id": "Clause 4.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.2: Senior Citizen Co-payment\nA compulsory co-payment of 10% applies to all admissible claims if the Insured Person enters the policy at or after age 61. The 10% co-payment is deducted from the net admissible claim after applying deductibles.",
+    "char_length": 254,
+    "clauses_present": [
+      "Clause 4.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_042",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 4: DEDUCTIBLES, CO-PAYMENTS, AND LIMITS",
+    "clause_id": "Clause 4.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.3: Cataract Sub-limit\nCoverage for Cataract surgery is limited to a maximum of \u20b940,000 per eye under Plan A, and \u20b960,000 per eye under Plan B, inclusive of lens costs and surgeon fees.",
+    "char_length": 197,
+    "clauses_present": [
+      "Clause 4.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_043",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 4: DEDUCTIBLES, CO-PAYMENTS, AND LIMITS",
+    "clause_id": "Clause 4.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.4: Modern Treatment Methods Sub-limits\nModern treatments such as Robotic Surgeries, Oral Chemotherapy, Immunotherapy, and Stem Cell Therapy are covered up to 50% of the Sum Insured or \u20b95,00,000, whichever is lower.\n\n---",
+    "char_length": 232,
+    "clauses_present": [
+      "Clause 4.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_044",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.1: Investigation and Evaluation Only\nExpenses related to admission primarily for diagnostic, X-ray, or laboratory examinations with no active medical or surgical treatment are excluded.",
+    "char_length": 198,
+    "clauses_present": [
+      "Clause 5.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_045",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.2: Rest Cure, Rehabilitation, and Respite Care\nExpenses related to any admission primarily for bed rest, convalescence, rehabilitation, or nursing care at home or health resort are excluded.",
+    "char_length": 203,
+    "clauses_present": [
+      "Clause 5.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_046",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.3: Obesity and Weight Control\nMedical expenses for surgical or medical treatment of obesity or weight reduction are excluded unless BMI is greater than 40 and accompanied by life-threatening comorbidities as certified by a specialist.",
+    "char_length": 247,
+    "clauses_present": [
+      "Clause 5.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_047",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.4: Cosmetic or Plastic Surgery\nExpenses for cosmetic or aesthetic treatments, facelifts, or plastic surgeries are excluded unless necessitated by accidental injury, burns, or cancer reconstruction.",
+    "char_length": 210,
+    "clauses_present": [
+      "Clause 5.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_048",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.5",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.5: Hazardous and Adventure Sports\nTreatment expenses arising from participation as a professional in hazardous or adventure sports such as skydiving, motor racing, scuba diving, and mountaineering are excluded.",
+    "char_length": 223,
+    "clauses_present": [
+      "Clause 5.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_049",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.6",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.6: Breach of Law\nExpenses incurred for treatment directly caused by or arising from the Insured Person committing or attempting to commit an intentional breach of law with criminal intent.",
+    "char_length": 201,
+    "clauses_present": [
+      "Clause 5.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_050",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.7",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.7: Substance Abuse and Intoxication\nExpenses incurred for treatment directly or indirectly attributable to alcohol abuse, drug abuse, or use of intoxicating substances without prescription are excluded.",
+    "char_length": 215,
+    "clauses_present": [
+      "Clause 5.7"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_051",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.8",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.8: Unproven Treatments and Experimental Therapies\nExpenses for treatments, procedures, or medicines that are not recognized by standard medical boards or that are undergoing clinical trials are excluded.",
+    "char_length": 216,
+    "clauses_present": [
+      "Clause 5.8"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_052",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.9",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.9: Maternity and Pregnancy Expenses\nMedical expenses related to pregnancy, childbirth, caesarean section, abortion, or miscarriage are excluded, except ectopic pregnancy diagnosed by clinical ultrasound.",
+    "char_length": 216,
+    "clauses_present": [
+      "Clause 5.9"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_053",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS",
+    "clause_id": "Clause 5.10",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.10: Dental Treatment\nDental treatment or surgery of any kind is excluded unless requiring hospitalization following an accidental bodily injury.\n\n---",
+    "char_length": 162,
+    "clauses_present": [
+      "Clause 5.10"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_054",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 6: CLAIMS PROCEDURE AND DOCUMENTATION",
+    "clause_id": "Clause 6.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.1: Intimation of Cashless Claim\nFor planned hospitalization at a Network Hospital, pre-authorization must be submitted at least 48 hours prior to admission. In emergency hospitalization, claim intimation must be given within 24 hours of hospital admission.",
+    "char_length": 269,
+    "clauses_present": [
+      "Clause 6.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_055",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 6: CLAIMS PROCEDURE AND DOCUMENTATION",
+    "clause_id": "Clause 6.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.2: Intimation of Reimbursement Claim\nFor treatment at a Non-Network Hospital, written intimation of claim must be submitted to the Insurer or TPA within 48 hours of admission or prior to discharge, whichever is earlier.",
+    "char_length": 232,
+    "clauses_present": [
+      "Clause 6.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_056",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 6: CLAIMS PROCEDURE AND DOCUMENTATION",
+    "clause_id": "Clause 6.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.3: Claim Submission Deadline\nAll original bills, receipts, discharge summary, diagnostic reports, and medical prescriptions must be submitted to the Insurer within 30 days from the date of discharge from the hospital.",
+    "char_length": 230,
+    "clauses_present": [
+      "Clause 6.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_057",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 6: CLAIMS PROCEDURE AND DOCUMENTATION",
+    "clause_id": "Clause 6.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.4: Post-Hospitalization Claim Submission\nBills and receipts for post-hospitalization medical expenses covered under Clause 2.4 must be submitted within 30 days of completion of the 180-day post-hospitalization period.",
+    "char_length": 230,
+    "clauses_present": [
+      "Clause 6.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_058",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 6: CLAIMS PROCEDURE AND DOCUMENTATION",
+    "clause_id": "Clause 6.5",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.5: Required Claim Documents\nA valid reimbursement claim dossier must include: Completed signed Claim Form Part A and B, Original Discharge Summary, Original Final Hospital Bill with itemized break-up, Original Payment Receipts, Pharmacy bills with supporting prescriptions, Doctor consultation sheets, and KYC documents for claims above \u20b91,00,000.",
+    "char_length": 360,
+    "clauses_present": [
+      "Clause 6.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "health_policy_optima_care.md_struct_059",
+    "doc_name": "health_policy_optima_care.md",
+    "section": "SECTION 6: CLAIMS PROCEDURE AND DOCUMENTATION",
+    "clause_id": "Clause 6.6",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.6: Claim Settlement Timelines\nThe Insurer shall settle or reject a claim within 30 days from the date of receipt of the last necessary document. In case of delay, the Insurer is liable to pay interest at 2% above the bank rate as mandated by IRDAI.",
+    "char_length": 261,
+    "clauses_present": [
+      "Clause 6.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_000",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "Preamble / Metadata",
+    "clause_id": "Preamble_0",
+    "strategy": "structure_aware",
+    "text": "# IRDAI POLICYHOLDER PROTECTION AND GRIEVANCE REDRESSAL GUIDELINES\n\n**Regulatory Authority:** Insurance Regulatory and Development Authority of India (IRDAI)  \n**Regulation Title:** IRDAI (Protection of Policyholders' Interests and Allied Operations) Regulations, 2024  \n**Document Reference:** IRDAI/REG/PPHI/2024/03  \n**Applicability:** All General, Life, and Health Insurance Companies operating in India  \n\n---",
+    "char_length": 414,
+    "clauses_present": [],
+    "clause_count": 0
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_001",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 1: POINT OF SALE AND POLICY ISSUANCE STANDARDS",
+    "clause_id": "Clause 1.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.1: Free-Look Cancellation Period\nA policyholder of a personal health or life insurance policy is entitled to a Free-Look Period of 15 days from the date of receipt of the physical policy document (or 30 days in case of policies obtained through distance marketing or electronic modes) to review the terms and conditions. If the insured disagrees with any clause, they may return the policy stating the reasons, upon which the insurer must refund the premium paid after deducting proportionate risk premium for the period on cover, medical examination expenses incurred by the insurer, and stamp duty charges.",
+    "char_length": 621,
+    "clauses_present": [
+      "Clause 1.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_002",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 1: POINT OF SALE AND POLICY ISSUANCE STANDARDS",
+    "clause_id": "Clause 1.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.2: Minimum Grace Period Standards\nEvery individual life and health insurance policy shall provide a Grace Period of:\n1. 30 days for policies with annual, half-yearly, or quarterly premium payment modes.\n2. 15 days for policies with monthly premium payment frequency.\nDuring the grace period, coverage remains valid, and the insurer cannot deny an admissible claim. If a claim arises during the grace period, the overdue installment premium may be deducted from the claim settlement amount.",
+    "char_length": 502,
+    "clauses_present": [
+      "Clause 1.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_003",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 1: POINT OF SALE AND POLICY ISSUANCE STANDARDS",
+    "clause_id": "Clause 1.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.3: Prohibition of Unilateral Mid-Term Alteration\nAn insurer shall not alter the terms, conditions, premium rates, or exclusions of an insurance policy during the subsistence of the policy term, except where permitted under specific IRDAI guidelines or statutory tax modifications.",
+    "char_length": 293,
+    "clauses_present": [
+      "Clause 1.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_004",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 1: POINT OF SALE AND POLICY ISSUANCE STANDARDS",
+    "clause_id": "Clause 1.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.4: Policy Portability Rights\nEvery health insurance policyholder has the statutory right to port their individual or family floater health policy from one insurer to another at renewal. The porting application must be submitted to the new insurer at least 45 days prior to the policy expiry date. The acquiring insurer must credit accrued continuity benefits including waiting periods for pre-existing diseases and cumulative bonuses up to the sum insured of the previous policy.\n\n---",
+    "char_length": 497,
+    "clauses_present": [
+      "Clause 1.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_005",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 2: CLAIMS PROCESSING AND SETTLEMENT TIMELINES",
+    "clause_id": "Clause 2.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.1: Initial Query on Claim Documentation\nAn insurer shall raise all queries or requests for supplementary documentation related to a claim in a single communication within 15 days of receiving the initial claim intimation. Piezomeal or staggered document requests are strictly prohibited under IRDAI regulations.",
+    "char_length": 324,
+    "clauses_present": [
+      "Clause 2.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_006",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 2: CLAIMS PROCESSING AND SETTLEMENT TIMELINES",
+    "clause_id": "Clause 2.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.2: Mandatory Claim Turnaround Time (TAT)\nThe insurer shall adjudicate, settle, or reject a claim within 30 days from the date of receipt of the final required document or surveyor's report.",
+    "char_length": 202,
+    "clauses_present": [
+      "Clause 2.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_007",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 2: CLAIMS PROCESSING AND SETTLEMENT TIMELINES",
+    "clause_id": "Clause 2.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.3: Special Investigation in Suspicious Claims\nWhere the circumstances of a claim warrant an in-depth investigation for suspected misrepresentation or fraud, the insurer shall initiate the investigation immediately and conclude it within 30 days. The ultimate decision on claim settlement must not exceed 45 days from the date of original receipt of claim documents.",
+    "char_length": 378,
+    "clauses_present": [
+      "Clause 2.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_008",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 2: CLAIMS PROCESSING AND SETTLEMENT TIMELINES",
+    "clause_id": "Clause 2.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.4: Statutory Interest on Delayed Claim Payment\nIn the event of a delay in the payment of an admissible claim beyond the 30-day timeline mandated in Clause 2.2, the insurer shall be liable to pay penal interest to the policyholder at a rate 2% above the prevailing Reserve Bank of India (RBI) Bank Rate from the date of receipt of the last document until the actual date of payment.\n\n---",
+    "char_length": 399,
+    "clauses_present": [
+      "Clause 2.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_009",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 3: GRIEVANCE REDRESSAL MECHANISM AND OMBUDSMAN JURISDICTION",
+    "clause_id": "Clause 3.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.1: Insurer Internal Grievance Redressal Officer (GRO)\nEvery insurance company must designate a Chief Grievance Redressal Officer (GRO) at its head office and branch grievance officers at each operating branch. A policyholder grievance submitted in writing or by email must be acknowledged within 3 business days and resolved with a reasoned written order within 14 calendar days of receipt.",
+    "char_length": 403,
+    "clauses_present": [
+      "Clause 3.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_010",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 3: GRIEVANCE REDRESSAL MECHANISM AND OMBUDSMAN JURISDICTION",
+    "clause_id": "Clause 3.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.2: IRDAI Bima Bharosa Portal (Formerly IGMS)\nIf a policyholder does not receive a response from the insurer's GRO within 14 days, or is dissatisfied with the insurer's resolution, the policyholder may escalate the complaint to the IRDAI through the 'Bima Bharosa' online portal (toll-free: 155255 / 1800 4254 732).",
+    "char_length": 327,
+    "clauses_present": [
+      "Clause 3.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_011",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 3: GRIEVANCE REDRESSAL MECHANISM AND OMBUDSMAN JURISDICTION",
+    "clause_id": "Clause 3.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.3: Eligibility and Jurisdiction of Insurance Ombudsman\nA policyholder may approach the Insurance Ombudsman having territorial jurisdiction if:\n1. The grievance was first rejected by the insurer, or no resolution was provided within 30 days of submission to the GRO.\n2. The total claim value, including compensation sought, does not exceed \u20b930,00,000 (Rupees Thirty Lakhs).\n3. The complaint is filed before the Ombudsman within one year from the date of receipt of the insurer's rejection order.\n4. No complaint on the same matter is pending before any court of law, consumer commission, or arbitrator.",
+    "char_length": 614,
+    "clauses_present": [
+      "Clause 3.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_guidelines_grievance.md_struct_012",
+    "doc_name": "irdai_guidelines_grievance.md",
+    "section": "SECTION 3: GRIEVANCE REDRESSAL MECHANISM AND OMBUDSMAN JURISDICTION",
+    "clause_id": "Clause 3.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.4: Binding Nature of Ombudsman Award\nAn award passed by the Insurance Ombudsman is binding on the insurance company. The insurer must comply with the award within 30 days of receiving the policyholder's letter of acceptance. However, if the policyholder is dissatisfied with the Ombudsman's award, they retain the full legal right to approach Consumer Courts (DCDRC, SCDRC, NCDRC) or civil courts.",
+    "char_length": 410,
+    "clauses_present": [
+      "Clause 3.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_000",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "Preamble / Metadata",
+    "clause_id": "Preamble_0",
+    "strategy": "structure_aware",
+    "text": "# SECUREDRIVE PRIVATE CAR COMPREHENSIVE PACKAGE POLICY\n\n**Product Name:** SecureDrive Private Car Comprehensive Package Policy  \n**Product UIN:** IRDAI/NL-GI/SD-PC/V.2/2024-25  \n**Regulating Authority:** Insurance Regulatory and Development Authority of India (IRDAI) / Indian Motor Tariff (IMT)  \n**Document Type:** Standard Private Car Package Policy Terms and Conditions  \n\n---",
+    "char_length": 380,
+    "clauses_present": [],
+    "clause_count": 0
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_001",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 1: LOSS OR DAMAGE TO THE VEHICLE INSURED (OWN DAMAGE)",
+    "clause_id": "Clause 1.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.1: Scope of Own Damage Cover\nThe Insurer will indemnify the Insured against loss or damage to the private vehicle insured and its accessories whilst thereon by:\n1. Fire, explosion, self-ignition, or lightning.\n2. Burglary, housebreaking, or theft.\n3. Riot and strike.\n4. Earthquake (fire and shock damage).\n5. Flood, typhoon, hurricane, storm, tempest, inundation, cyclone, hailstorm, and frost.\n6. Accidental external means.\n7. Malicious act.\n8. Terrorist activity.\n9. Whilst in transit by road, rail, inland waterway, lift, elevator, or air.\n10. Landslide and rockslide.",
+    "char_length": 585,
+    "clauses_present": [
+      "Clause 1.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_002",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 1: LOSS OR DAMAGE TO THE VEHICLE INSURED (OWN DAMAGE)",
+    "clause_id": "Clause 1.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.2: Depreciation Scale on Parts for Partial Loss Claims\nIn the settlement of claims for accidental partial loss, depreciation shall be deducted on parts replaced at the following rates:\n1. Rubber, nylon, plastic parts, tyres, tubes, batteries, and airbags: 50% depreciation.\n2. Fiberglass components: 30% depreciation.\n3. All parts made of glass: Nil (0% depreciation).\n4. All other parts made of steel/metal:\n   - Vehicle age up to 6 months: Nil depreciation.\n   - Vehicle age > 6 months up to 1 year: 5% depreciation.\n   - Vehicle age > 1 year up to 2 years: 10% depreciation.\n   - Vehicle age > 2 years up to 3 years: 15% depreciation.\n   - Vehicle age > 3 years up to 4 years: 25% depreciation.\n   - Vehicle age > 4 years up to 5 years: 35% depreciation.\n   - Vehicle age > 5 years up to 10 years: 40% depreciation.\n   - Vehicle age over 10 years: 50% depreciation.",
+    "char_length": 881,
+    "clauses_present": [
+      "Clause 1.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_003",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 1: LOSS OR DAMAGE TO THE VEHICLE INSURED (OWN DAMAGE)",
+    "clause_id": "Clause 1.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.3: Insured Declared Value (IDV) Definition\nThe Insured Declared Value (IDV) of the vehicle shall be treated as the 'Sum Insured' for the purpose of this policy. The IDV is fixed at the commencement of each policy period for the insured vehicle on the basis of the manufacturer's listed selling price less depreciation based on vehicle age.",
+    "char_length": 352,
+    "clauses_present": [
+      "Clause 1.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_004",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 1: LOSS OR DAMAGE TO THE VEHICLE INSURED (OWN DAMAGE)",
+    "clause_id": "Clause 1.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.4: Total Loss and Constructive Total Loss (CTL)\nA vehicle will be considered to be a Constructive Total Loss (CTL) where the aggregate cost of retrieval and/or repair of the vehicle, subject to terms and conditions of the policy, exceeds 75% of the Insured Declared Value (IDV) of the vehicle. In the event of Total Loss or CTL, the Insurer pays the full IDV after surrendering vehicle salvage and registration papers.",
+    "char_length": 431,
+    "clauses_present": [
+      "Clause 1.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_005",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 1: LOSS OR DAMAGE TO THE VEHICLE INSURED (OWN DAMAGE)",
+    "clause_id": "Clause 1.5",
+    "strategy": "structure_aware",
+    "text": "### Clause 1.5: Towing and Protection Expenses\nIf the insured vehicle is disabled by reason of accidental damage, the Insurer will bear the reasonable cost of protection and removal to the nearest repairer up to a maximum limit of \u20b91,500 for private cars. Any additional towing charges must be borne by the Insured unless the Roadside Assistance add-on was purchased.\n\n---",
+    "char_length": 372,
+    "clauses_present": [
+      "Clause 1.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_006",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 2: LIABILITY TO THIRD PARTIES",
+    "clause_id": "Clause 2.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.1: Third Party Bodily Injury or Death Cover\nSubject to the limits of liability, the Insurer will indemnify the Insured in the event of an accident caused by or arising out of the use of the vehicle against all sums including claimant's costs and expenses which the Insured shall become legally liable to pay in respect of death of or bodily injury to any third party person. In accordance with Motor Vehicles Act, liability for bodily injury or death is unlimited.",
+    "char_length": 477,
+    "clauses_present": [
+      "Clause 2.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_007",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 2: LIABILITY TO THIRD PARTIES",
+    "clause_id": "Clause 2.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.2: Third Party Property Damage (TPPD) Limit\nThe Insurer indemnifies damage to property belonging to any third party person up to a maximum statutory limit of \u20b97,50,000 in respect of any one accident or series of accidents arising out of one event. The Policyholder may opt for a restricted TPPD limit of \u20b96,000 to obtain a minor premium discount.",
+    "char_length": 359,
+    "clauses_present": [
+      "Clause 2.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_008",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 2: LIABILITY TO THIRD PARTIES",
+    "clause_id": "Clause 2.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 2.3: Legal Expenses in Third Party Claims\nThe Insurer will pay all reasonable legal costs and expenses incurred with its prior written consent in defending any suit or criminal prosecution brought against the Insured or the Authorized Driver in connection with an accident.\n\n---",
+    "char_length": 289,
+    "clauses_present": [
+      "Clause 2.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_009",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 3: COMPULSORY PERSONAL ACCIDENT COVER FOR OWNER-DRIVER",
+    "clause_id": "Clause 3.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.1: Compulsory Personal Accident (CPA) Scope\nThe Insurer undertakes to pay compensation up to a Capital Sum Insured of \u20b915,00,000 for bodily injury or death sustained by the Owner-Driver of the vehicle in direct connection with the insured vehicle whilst driving, mounting into, or dismounting from the vehicle.",
+    "char_length": 323,
+    "clauses_present": [
+      "Clause 3.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_010",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 3: COMPULSORY PERSONAL ACCIDENT COVER FOR OWNER-DRIVER",
+    "clause_id": "Clause 3.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.2: CPA Scale of Compensation\nCompensation under CPA is payable as follows:\n1. Death: 100% of Capital Sum Insured (\u20b915,00,000).\n2. Loss of two limbs or sight of two eyes: 100% of Capital Sum Insured (\u20b915,00,000).\n3. Loss of one limb or sight of one eye: 50% of Capital Sum Insured (\u20b97,50,000).\n4. Permanent total disablement from injuries: 100% of Capital Sum Insured (\u20b915,00,000).",
+    "char_length": 393,
+    "clauses_present": [
+      "Clause 3.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_011",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 3: COMPULSORY PERSONAL ACCIDENT COVER FOR OWNER-DRIVER",
+    "clause_id": "Clause 3.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 3.3: Exemption from CPA Cover\nAn owner-driver may opt out of the Compulsory Personal Accident cover if they already possess an effective standalone 24-hour Personal Accident cover with Sum Insured of at least \u20b915,00,000, or own another vehicle with valid CPA cover.\n\n---",
+    "char_length": 281,
+    "clauses_present": [
+      "Clause 3.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_012",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 4: DEDUCTIBLES AND DISCOUNTS",
+    "clause_id": "Clause 4.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.1: Compulsory Deductible\nThe Insurer shall not be liable for each and every claim arising under Section 1 (Own Damage) in respect of the compulsory deductible:\n- For private cars with engine capacity not exceeding 1,500 cc: \u20b91,000 per claim.\n- For private cars with engine capacity exceeding 1,500 cc: \u20b92,000 per claim.",
+    "char_length": 332,
+    "clauses_present": [
+      "Clause 4.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_013",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 4: DEDUCTIBLES AND DISCOUNTS",
+    "clause_id": "Clause 4.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.2: Voluntary Deductible\nIf the Insured opts for an additional Voluntary Deductible at policy issuance, the Insured shall bear that amount on each claim in addition to the Compulsory Deductible, in exchange for a premium discount on the basic Own Damage premium:\n- Voluntary Deductible \u20b92,500: 20% discount on OD premium (max \u20b9750).\n- Voluntary Deductible \u20b95,000: 25% discount on OD premium (max \u20b91,500).\n- Voluntary Deductible \u20b97,500: 30% discount on OD premium (max \u20b92,000).\n- Voluntary Deductible \u20b915,000: 35% discount on OD premium (max \u20b92,500).",
+    "char_length": 561,
+    "clauses_present": [
+      "Clause 4.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_014",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 4: DEDUCTIBLES AND DISCOUNTS",
+    "clause_id": "Clause 4.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.3: No Claim Bonus (NCB) Scale\nNo Claim Bonus (NCB) is earned on the Own Damage premium for every claim-free year according to the following progressive scale:\n- 1 claim-free year: 20% discount.\n- 2 consecutive claim-free years: 25% discount.\n- 3 consecutive claim-free years: 35% discount.\n- 4 consecutive claim-free years: 45% discount.\n- 5 consecutive claim-free years: 50% maximum discount.\nIf a claim is lodged during the policy period, the NCB is reduced to Nil (0%) at the subsequent renewal, unless a Zero NCB Protection add-on was in effect.",
+    "char_length": 562,
+    "clauses_present": [
+      "Clause 4.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_015",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 4: DEDUCTIBLES AND DISCOUNTS",
+    "clause_id": "Clause 4.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 4.4: Transfer of No Claim Bonus\nNCB belongs to the Insured (vehicle owner) and not to the vehicle. Upon sale of the insured vehicle, the Insured can retain the NCB certificate and apply the earned discount to a replacement vehicle purchased within 3 years.\n\n---",
+    "char_length": 272,
+    "clauses_present": [
+      "Clause 4.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_016",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS",
+    "clause_id": "Clause 5.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.1: Contractual Liability Exclusion\nThe policy does not cover any liability arising out of an agreement or contract entered into by the Insured which would not have attached in the absence of such contract.",
+    "char_length": 218,
+    "clauses_present": [
+      "Clause 5.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_017",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS",
+    "clause_id": "Clause 5.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.2: Consequential Loss and Depreciation\nThe Insurer is not liable for any consequential financial loss, depreciation, wear and tear, or mechanical or electrical breakdown, failure, or breakage.",
+    "char_length": 205,
+    "clauses_present": [
+      "Clause 5.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_018",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS",
+    "clause_id": "Clause 5.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.3: Driving Under the Influence (DUI)\nThe Insurer shall not be liable for any accidental loss, damage, or third-party liability caused whilst the vehicle is being driven by any person under the influence of intoxicating liquor or drugs. A blood alcohol content exceeding 30 mg per 100 ml of blood constitutes statutory intoxication.",
+    "char_length": 344,
+    "clauses_present": [
+      "Clause 5.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_019",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS",
+    "clause_id": "Clause 5.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.4: Driving Without Valid Driving License\nThe Insurer is not liable if the vehicle is being driven by any person who is not holding an effective and valid driving license at the time of the accident, or by a person disqualified from holding or obtaining such a license.",
+    "char_length": 281,
+    "clauses_present": [
+      "Clause 5.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_020",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS",
+    "clause_id": "Clause 5.5",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.5: Geographic and War Limitations\nAny accidental loss or damage occurring outside the geographical boundaries of India is excluded, unless specifically extended by endorsement to Nepal, Bhutan, Bangladesh, or Sri Lanka. Loss due to war, invasion, or nuclear weapons is excluded.",
+    "char_length": 291,
+    "clauses_present": [
+      "Clause 5.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_021",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS",
+    "clause_id": "Clause 5.6",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.6: Speed Contests and Motor Rallies\nAny loss, damage, or liability incurred whilst the insured vehicle is used for racing, pacemaking, speed testing, reliability trials, or motor rallies is excluded.",
+    "char_length": 212,
+    "clauses_present": [
+      "Clause 5.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_022",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS",
+    "clause_id": "Clause 5.7",
+    "strategy": "structure_aware",
+    "text": "### Clause 5.7: Hydrostatic Lock and Engine Inundation\nDamage caused to the engine of the vehicle due to water ingression or hydrostatic lock caused by attempting to restart an inundated vehicle is excluded under base cover, unless an Engine Protector add-on is active.\n\n---",
+    "char_length": 274,
+    "clauses_present": [
+      "Clause 5.7"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_023",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 6: CLAIMS SETTLEMENT AND INTIMATION RULES",
+    "clause_id": "Clause 6.1",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.1: Notice of Accidental Loss\nNotice shall be given in writing to the Insurer immediately upon the occurrence of any accidental loss or damage, and in the event of any claim, within 48 to 72 hours of the incident.",
+    "char_length": 225,
+    "clauses_present": [
+      "Clause 6.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_024",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 6: CLAIMS SETTLEMENT AND INTIMATION RULES",
+    "clause_id": "Clause 6.2",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.2: Theft and Burglary Procedure\nIn the event of theft or criminal act, immediate notice must be given to the local Police authorities and a First Information Report (FIR) must be registered. A final untraced report (Non-Traceable Certificate) certified by the judicial magistrate must be submitted to the Insurer before a total theft claim can be settled.",
+    "char_length": 368,
+    "clauses_present": [
+      "Clause 6.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_025",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 6: CLAIMS SETTLEMENT AND INTIMATION RULES",
+    "clause_id": "Clause 6.3",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.3: Independent Surveyor Appointment\nFor any Own Damage claim where the estimated loss exceeds \u20b950,000, an IRDAI-licensed independent insurance surveyor must be deputed to inspect the vehicle before dismantling and repairs commence.",
+    "char_length": 244,
+    "clauses_present": [
+      "Clause 6.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "motor_policy_secure_drive.md_struct_026",
+    "doc_name": "motor_policy_secure_drive.md",
+    "section": "SECTION 6: CLAIMS SETTLEMENT AND INTIMATION RULES",
+    "clause_id": "Clause 6.4",
+    "strategy": "structure_aware",
+    "text": "### Clause 6.4: Cashless Workshop Settlement\nUnder the Cashless garage network, the Insurer directly settles approved repair costs with the authorized workshop, less the applicable depreciation (Clause 1.2), compulsory deductible (Clause 4.1), and salvage value.",
+    "char_length": 262,
+    "clauses_present": [
+      "Clause 6.4"
+    ],
+    "clause_count": 1
+  }
+]
