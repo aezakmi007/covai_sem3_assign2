@@ -1,0 +1,4 @@
+Condition / Architecture,Cache Hit Rate (%),Total Tokens Consumed,Token Savings (%),Mean Latency / Turn,Latency Reduction (%),"Cost / 1,000 Turns ($)",Cost Savings (%)
+Condition A: No Cache (Large Model Only),0.0% (No Cache),"10,895 tok",Baseline (0.0%),750.0 ms,Baseline (0.0%),$0.1073,Baseline (0.0%)
+Condition B: Prompt Cache Only (Large Model),66.0% (33/50),"3,565 tok",-67.3%,256.0 ms,-65.9%,$0.0350,-67.4%
+Condition C: Prompt Cache + Model Routing,66.0% (33/50),"3,565 tok",-67.3%,176.2 ms,-76.5%,$0.0276,-74.2%

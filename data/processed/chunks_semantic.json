@@ -171,8 +171,8 @@
     "text": "### Clause 1.16: Network Hospital\nNetwork Hospital means hospitals, health care providers, or clinics enlisted by an Insurer or by a Third Party Administrator (TPA) to provide medical services to an Insured on a Cashless basis. ### Clause 1.17: Non-Network Hospital\nNon-Network Hospital means any registered hospital or medical facility that is not part of the network of the Insurer or TPA.",
     "char_length": 391,
     "clauses_present": [
-      "Clause 1.17",
-      "Clause 1.16"
+      "Clause 1.16",
+      "Clause 1.17"
     ],
     "clause_count": 2
   },
@@ -194,8 +194,8 @@
     "text": "### Clause 1.19: Pre-Hospitalization Medical Expenses\nPre-Hospitalization Medical Expenses means medical expenses incurred immediately before the Insured Person is hospitalized, provided that such expenses are incurred for the same condition for which hospitalization occurred, up to a maximum period of 60 days. ### Clause 1.20: Post-Hospitalization Medical Expenses\nPost-Hospitalization Medical Expenses means medical expenses incurred immediately after the Insured Person is discharged from the hospital, provided that such expenses are incurred for the same condition for which hospitalization occurred, up to a maximum period of 180 days.",
     "char_length": 643,
     "clauses_present": [
-      "Clause 1.19",
-      "Clause 1.20"
+      "Clause 1.20",
+      "Clause 1.19"
     ],
     "clause_count": 2
   },
@@ -240,8 +240,8 @@
     "char_length": 857,
     "clauses_present": [
       "Clause 1.24",
-      "Clause 2.2",
-      "Clause 2.1"
+      "Clause 2.1",
+      "Clause 2.2"
     ],
     "clause_count": 3
   },
@@ -284,8 +284,8 @@
     "text": "### Clause 2.6: Domiciliary Hospitalization Benefit\nDomiciliary hospitalization is covered up to a maximum of 10% of the Sum Insured subject to a maximum of \u20b950,000 per policy year, provided medical treatment continues for at least 3 consecutive days and the condition fulfills the definition under Clause 1.8.",
     "char_length": 310,
     "clauses_present": [
-      "Clause 1.8",
-      "Clause 2.6"
+      "Clause 2.6",
+      "Clause 1.8"
     ],
     "clause_count": 2
   },
@@ -347,8 +347,8 @@
     "text": "### Clause 2.10: Cumulative Bonus (No Claim Bonus)\nFor every claim-free policy year, the Sum Insured shall be increased by 10% up to a maximum of 100% of the basic Sum Insured, provided the policy is renewed without any break. In the event of a claim, the accumulated bonus is reduced by 10% at renewal, but the base Sum Insured remains untouched. ### Clause 2.11: Restoration of Sum Insured\nIf the base Sum Insured and Cumulative Bonus are exhausted during the policy year due to claims paid, a 100% restoration of the base Sum Insured will be triggered automatically once per policy year for unrelated illnesses or injuries. Restoration cannot be utilized for the same illness for which a claim was paid within the same year.\n\n---\n\n## SECTION 3: WAITING PERIODS\n\n### Clause 3.1: Initial Waiting Period (30 Days)\nA waiting period of 30 days from the inception date of the policy applies to all claims, except accidental bodily injury.",
     "char_length": 935,
     "clauses_present": [
-      "Clause 2.10",
       "Clause 3.1",
+      "Clause 2.10",
       "Clause 2.11"
     ],
     "clause_count": 3
@@ -382,8 +382,8 @@
     "text": "### Clause 3.4: Moratorium Period (60 Months)\nAfter 60 continuous months of coverage under this policy, no claim shall be contestable by the Insurer on grounds of misrepresentation or non-disclosure of health conditions, except in instances of proven fraud.\n\n---\n\n## SECTION 4: DEDUCTIBLES, CO-PAYMENTS, AND LIMITS\n\n### Clause 4.1: Standard Deductible Option\nWhere the policyholder opts for a Voluntary Deductible of \u20b910,000 or \u20b925,000 to reduce annual premium, the Insured must bear the selected deductible amount on aggregate admissible claims during each policy year before the Insurer pays any claim benefit.",
     "char_length": 612,
     "clauses_present": [
-      "Clause 4.1",
-      "Clause 3.4"
+      "Clause 3.4",
+      "Clause 4.1"
     ],
     "clause_count": 2
   },
@@ -414,10 +414,10 @@
     "text": "### Clause 4.3: Cataract Sub-limit\nCoverage for Cataract surgery is limited to a maximum of \u20b940,000 per eye under Plan A, and \u20b960,000 per eye under Plan B, inclusive of lens costs and surgeon fees. ### Clause 4.4: Modern Treatment Methods Sub-limits\nModern treatments such as Robotic Surgeries, Oral Chemotherapy, Immunotherapy, and Stem Cell Therapy are covered up to 50% of the Sum Insured or \u20b95,00,000, whichever is lower.\n\n---\n\n## SECTION 5: GENERAL EXCLUSIONS\n\n### Clause 5.1: Investigation and Evaluation Only\nExpenses related to admission primarily for diagnostic, X-ray, or laboratory examinations with no active medical or surgical treatment are excluded. ### Clause 5.2: Rest Cure, Rehabilitation, and Respite Care\nExpenses related to any admission primarily for bed rest, convalescence, rehabilitation, or nursing care at home or health resort are excluded.",
     "char_length": 868,
     "clauses_present": [
-      "Clause 5.1",
-      "Clause 4.4",
       "Clause 5.2",
-      "Clause 4.3"
+      "Clause 4.4",
+      "Clause 4.3",
+      "Clause 5.1"
     ],
     "clause_count": 4
   },
@@ -428,9 +428,9 @@
     "text": "### Clause 5.3: Obesity and Weight Control\nMedical expenses for surgical or medical treatment of obesity or weight reduction are excluded unless BMI is greater than 40 and accompanied by life-threatening comorbidities as certified by a specialist. ### Clause 5.4: Cosmetic or Plastic Surgery\nExpenses for cosmetic or aesthetic treatments, facelifts, or plastic surgeries are excluded unless necessitated by accidental injury, burns, or cancer reconstruction. ### Clause 5.5: Hazardous and Adventure Sports\nTreatment expenses arising from participation as a professional in hazardous or adventure sports such as skydiving, motor racing, scuba diving, and mountaineering are excluded.",
     "char_length": 682,
     "clauses_present": [
+      "Clause 5.5",
       "Clause 5.4",
-      "Clause 5.3",
-      "Clause 5.5"
+      "Clause 5.3"
     ],
     "clause_count": 3
   },
@@ -441,9 +441,9 @@
     "text": "### Clause 5.6: Breach of Law\nExpenses incurred for treatment directly caused by or arising from the Insured Person committing or attempting to commit an intentional breach of law with criminal intent. ### Clause 5.7: Substance Abuse and Intoxication\nExpenses incurred for treatment directly or indirectly attributable to alcohol abuse, drug abuse, or use of intoxicating substances without prescription are excluded. ### Clause 5.8: Unproven Treatments and Experimental Therapies\nExpenses for treatments, procedures, or medicines that are not recognized by standard medical boards or that are undergoing clinical trials are excluded.",
     "char_length": 634,
     "clauses_present": [
-      "Clause 5.6",
+      "Clause 5.8",
       "Clause 5.7",
-      "Clause 5.8"
+      "Clause 5.6"
     ],
     "clause_count": 3
   },
@@ -465,13 +465,13 @@
     "text": "### Clause 5.10: Dental Treatment\nDental treatment or surgery of any kind is excluded unless requiring hospitalization following an accidental bodily injury.\n\n---\n\n## SECTION 6: CLAIMS PROCEDURE AND DOCUMENTATION\n\n### Clause 6.1: Intimation of Cashless Claim\nFor planned hospitalization at a Network Hospital, pre-authorization must be submitted at least 48 hours prior to admission. In emergency hospitalization, claim intimation must be given within 24 hours of hospital admission. ### Clause 6.2: Intimation of Reimbursement Claim\nFor treatment at a Non-Network Hospital, written intimation of claim must be submitted to the Insurer or TPA within 48 hours of admission or prior to discharge, whichever is earlier. ### Clause 6.3: Claim Submission Deadline\nAll original bills, receipts, discharge summary, diagnostic reports, and medical prescriptions must be submitted to the Insurer within 30 days from the date of discharge from the hospital. ### Clause 6.4: Post-Hospitalization Claim Submission\nBills and receipts for post-hospitalization medical expenses covered under Clause 2.4 must be submitted within 30 days of completion of the 180-day post-hospitalization period. ### Clause 6.5: Required Claim Documents\nA valid reimbursement claim dossier must include: Completed signed Claim Form Part A and B, Original Discharge Summary, Original Final Hospital Bill with itemized break-up, Original Payment Receipts, Pharmacy bills with supporting prescriptions, Doctor consultation sheets, and KYC documents for claims above \u20b91,00,000.",
     "char_length": 1539,
     "clauses_present": [
-      "Clause 6.1",
-      "Clause 6.2",
       "Clause 6.3",
-      "Clause 6.4",
+      "Clause 6.1",
       "Clause 6.5",
       "Clause 5.10",
-      "Clause 2.4"
+      "Clause 6.4",
+      "Clause 2.4",
+      "Clause 6.2"
     ],
     "clause_count": 7
   },
@@ -494,6 +494,270 @@
     "char_length": 103,
     "clauses_present": [],
     "clause_count": 0
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_000",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "# IRDAI CONSUMER EDUCATION AND INSURANCE CLAIMS FAQ COLLECTION\n\n**Source:** IRDAI Consumer Education Portal & Grievance Guidelines  \n**Domain:** Public Policyholder Assistance and Regulatory Standards  \n\n---\n\n## SECTION 11: HEALTH INSURANCE CONSUMER CLAIMS FAQS\n\n### Clause 11.1: Cashless Claim Authorization Process\nUnder cashless hospitalization, the network hospital sends a pre-authorization request to the TPA or insurer.",
+    "char_length": 426,
+    "clauses_present": [
+      "Clause 11.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_001",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "The insurer must issue an initial approval or query within 1 hour of receiving complete medical details.",
+    "char_length": 104,
+    "clauses_present": [],
+    "clause_count": 0
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_002",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.2: Treatment in Non-Network Hospital\nIf an insured is admitted to a non-network hospital, the expenses must first be paid out-of-pocket by the policyholder and subsequently claimed through reimbursement within 30 days of discharge.",
+    "char_length": 245,
+    "clauses_present": [
+      "Clause 11.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_003",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.3: Grace Period Continuity Benefits\nIf premium is paid within the 30-day grace period, all accrued benefits including waiting period credits for pre-existing diseases and cumulative bonuses are fully preserved without any penalty.",
+    "char_length": 244,
+    "clauses_present": [
+      "Clause 11.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_004",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.4: Pre-Existing Disease Disclosure Norms\nFailure to disclose pre-existing diseases at the time of policy proposal permits the insurer to reject claims arising within the first 60 months of policy inception on grounds of non-disclosure.",
+    "char_length": 249,
+    "clauses_present": [
+      "Clause 11.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_005",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.5: Free-Look Cancellation Refund Deductions\nWhen a policyholder cancels a policy during the 15-day free-look period, the insurer refunds the premium after deducting proportionate risk premium, medical examination costs, and stamp duty.",
+    "char_length": 249,
+    "clauses_present": [
+      "Clause 11.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_006",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.6: Deductible vs Co-Payment Distinction\nA deductible is a fixed rupee amount (e.g., \u20b910,000) borne first by the insured per policy year. A co-payment is a fixed percentage (e.g., 10%) shared on every admissible claim amount.",
+    "char_length": 238,
+    "clauses_present": [
+      "Clause 11.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_007",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.7: Day Care Procedures Hospitalization Criteria\nDay care procedures do not require 24 hours of hospital confinement if advanced medical technology enables discharge within 24 hours in a registered daycare surgical facility.",
+    "char_length": 237,
+    "clauses_present": [
+      "Clause 11.7"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_008",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.8: AYUSH Hospitalization Recognition\nAYUSH treatments are admissible only if taken in a recognized government AYUSH hospital or an accredited teaching hospital under the Clinical Establishments Act.",
+    "char_length": 212,
+    "clauses_present": [
+      "Clause 11.8"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_009",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.9: Pre-Hospitalization Diagnostic Tests Coverage\nDiagnostic tests (such as MRI, CT scans, blood work) conducted within 60 days before hospital admission are reimbursable if directly related to the inpatient hospitalization condition.",
+    "char_length": 247,
+    "clauses_present": [
+      "Clause 11.9"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_010",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 11.10: Post-Hospitalization Follow-up Pharmacy Bills\nPharmacy bills and follow-up consultation fees incurred within 180 days post-discharge are payable provided prescriptions from the treating medical practitioner are attached.\n\n---\n\n## SECTION 12: MOTOR INSURANCE CONSUMER CLAIMS FAQS\n\n### Clause 12.1: Compulsory Deductible Engine Thresholds\nUnder Indian Motor Tariff regulations, private cars with engine capacity up to 1,500 cc carry a compulsory deductible of \u20b91,000; cars exceeding 1,500 cc carry a compulsory deductible of \u20b92,000.",
+    "char_length": 548,
+    "clauses_present": [
+      "Clause 11.10",
+      "Clause 12.1"
+    ],
+    "clause_count": 2
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_011",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.2: Mandatory FIR for Vehicle Theft\nIn the event of motor vehicle theft, immediate registration of a First Information Report (FIR) with the police is compulsory.",
+    "char_length": 175,
+    "clauses_present": [
+      "Clause 12.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_012",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "An insurance claim cannot be settled without an untraced report.",
+    "char_length": 64,
+    "clauses_present": [],
+    "clause_count": 0
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_013",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.3: Zero Depreciation Add-on Validity\nA Zero Depreciation (bumper-to-bumper) add-on waives depreciation deductions on plastic, rubber, metal, and glass parts, but is generally available only for vehicles up to 5 years of age.",
+    "char_length": 238,
+    "clauses_present": [
+      "Clause 12.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_014",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.4: Third Party Property Damage Statutory Limit\nThe statutory liability for third-party property damage under the Motor Vehicles Act is capped at \u20b97,50,000 per accident. Unlimited liability applies only to third-party death or bodily injury.",
+    "char_length": 254,
+    "clauses_present": [
+      "Clause 12.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_015",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.5: Transfer of No Claim Bonus to Replacement Car\nWhen a car owner sells their vehicle, the earned No Claim Bonus (NCB) can be retained via an NCB Reserving Letter and transferred to a new car purchased within 3 years.",
+    "char_length": 231,
+    "clauses_present": [
+      "Clause 12.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_016",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.6: Water Ingression and Hydrostatic Lock Damage\nIf a vehicle engine is stalled in floodwaters, attempting to crank or restart the engine causes hydrostatic lock, which is classified as consequential damage and excluded under base cover.",
+    "char_length": 250,
+    "clauses_present": [
+      "Clause 12.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_017",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.7: Constructive Total Loss 75% IDV Rule\nWhen the estimated repair and retrieval cost exceeds 75% of the vehicle's Insured Declared Value (IDV), the claim is settled on a Constructive Total Loss basis, paying out the full IDV.",
+    "char_length": 239,
+    "clauses_present": [
+      "Clause 12.7"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_018",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.8: Compulsory Personal Accident Owner-Driver Exemption\nAn owner-driver is legally exempt from purchasing the mandatory \u20b915 Lakhs CPA cover if they already hold an independent 24-hour personal accident policy with at least \u20b915 Lakhs sum insured.",
+    "char_length": 258,
+    "clauses_present": [
+      "Clause 12.8"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_019",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.9: Driving License Disqualification Impact\nOperating an insured vehicle with an expired or invalid driving license, or under statutory intoxication (>30 mg alcohol/100 ml blood), voids all Own Damage and Third Party insurance cover.",
+    "char_length": 246,
+    "clauses_present": [
+      "Clause 12.9"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_020",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 12.10: Surveyor Deputation for Losses Exceeding \u20b950,000\nMotor vehicle claims estimated above \u20b950,000 must be physically surveyed and assessed by an independent IRDAI-licensed insurance surveyor before repairs begin.\n\n---\n\n## SECTION 13: GRIEVANCE REDRESSAL AND OMBUDSMAN FAQS\n\n### Clause 13.1: Grievance Officer Escalation Timeline\nAn insurer's Grievance Redressal Officer (GRO) must resolve written policyholder complaints within 14 calendar days of receipt. ### Clause 13.2: Approaching the Insurance Ombudsman\nA complainant can approach the Insurance Ombudsman only after the insurer has rejected the complaint, provided an unsatisfactory response, or failed to reply within 30 days.",
+    "char_length": 697,
+    "clauses_present": [
+      "Clause 13.1",
+      "Clause 12.10",
+      "Clause 13.2"
+    ],
+    "clause_count": 3
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_021",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 13.3: Ombudsman Monetary Limit \u20b930 Lakhs\nThe Insurance Ombudsman has legal jurisdiction to adjudicate insurance disputes where the total claim amount plus compensation sought does not exceed \u20b930,00,000. ### Clause 13.4: One-Year Limitation for Ombudsman Complaints\nA complaint to the Insurance Ombudsman must be lodged within 1 year from the date on which the insurer issued its written rejection or final decision.",
+    "char_length": 426,
+    "clauses_present": [
+      "Clause 13.3",
+      "Clause 13.4"
+    ],
+    "clause_count": 2
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_022",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 13.5: Penal Interest on Delayed Claims\nIf an insurer delays claim disbursement beyond 30 days of receiving the final required document, the insurer must pay penal interest at 2% above the prevailing RBI Bank Rate.",
+    "char_length": 224,
+    "clauses_present": [
+      "Clause 13.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "insurance_qa_and_grievance_faq.md_semantic_023",
+    "doc_name": "insurance_qa_and_grievance_faq.md",
+    "strategy": "semantic",
+    "text": "### Clause 13.6: Binding Nature of Ombudsman Decision\nThe Ombudsman's award is legally binding on the insurance company within 30 days of acceptance by the policyholder, but does not prevent the policyholder from moving Consumer Courts if dissatisfied.",
+    "char_length": 252,
+    "clauses_present": [
+      "Clause 13.6"
+    ],
+    "clause_count": 1
   },
   {
     "chunk_id": "irdai_guidelines_grievance.md_semantic_000",
@@ -641,8 +905,8 @@
     "text": "### Clause 2.4: Statutory Interest on Delayed Claim Payment\nIn the event of a delay in the payment of an admissible claim beyond the 30-day timeline mandated in Clause 2.2, the insurer shall be liable to pay penal interest to the policyholder at a rate 2% above the prevailing Reserve Bank of India (RBI) Bank Rate from the date of receipt of the last document until the actual date of payment.\n\n---\n\n## SECTION 3: GRIEVANCE REDRESSAL MECHANISM AND OMBUDSMAN JURISDICTION\n\n### Clause 3.1: Insurer Internal Grievance Redressal Officer (GRO)\nEvery insurance company must designate a Chief Grievance Redressal Officer (GRO) at its head office and branch grievance officers at each operating branch.",
     "char_length": 695,
     "clauses_present": [
-      "Clause 2.4",
       "Clause 3.1",
+      "Clause 2.4",
       "Clause 2.2"
     ],
     "clause_count": 3
@@ -769,6 +1033,110 @@
     "char_length": 172,
     "clauses_present": [],
     "clause_count": 0
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_000",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "# IRDAI MASTER CIRCULAR ON HEALTH AND GENERAL INSURANCE OPERATIONS (2024)\n\n**Issuing Authority:** Insurance Regulatory and Development Authority of India (IRDAI)  \n**Circular Reference:** IRDAI/HLT/CIR/2024/08  \n**Applicability:** All General and Standalone Health Insurers  \n\n---\n\n## SECTION 14: CASHLESS EVERYWHERE INITIATIVE & DISCHARGE TIMELINES\n\n### Clause 14.1: Cashless Everywhere Nationwide Mandate\nEvery health insurer must provide cashless hospitalization facility to policyholders even at non-network hospitals, provided the hospital has at least 15 functional in-patient beds and agrees to the insurer's standard medical pricing tariff.",
+    "char_length": 648,
+    "clauses_present": [
+      "Clause 14.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_001",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 14.2: One-Hour Pre-Authorization Timeline\nThe insurer or Third Party Administrator (TPA) must communicate its approval or query for cashless pre-authorization within 1 hour of receiving the request from the hospital. ### Clause 14.3: Three-Hour Final Discharge Clearance Mandate\nUpon receiving the final hospital bill and discharge summary, the insurer or TPA must grant final authorization and clear the claim within 3 hours. Any hospital retention charges caused by insurer delay exceeding 3 hours must be borne solely by the insurer.",
+    "char_length": 547,
+    "clauses_present": [
+      "Clause 14.3",
+      "Clause 14.2"
+    ],
+    "clause_count": 2
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_002",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 14.4: Senior Citizen Priority Claims Desk\nAll insurers must maintain a dedicated senior citizen customer care desk and ensure that claims lodged by insured persons aged 60 and above are processed by priority adjusters within 15 days.\n\n---\n\n## SECTION 15: MOTOR CLAIMS SETTLEMENT AND SALVAGE RULES\n\n### Clause 15.1: Cashless Garage Network Everywhere\nFor motor accidental claims, insurers must establish tie-ups with authorized and multi-brand workshops ensuring direct cashless settlement of admissible repair costs less deductibles.",
+    "char_length": 544,
+    "clauses_present": [
+      "Clause 14.4",
+      "Clause 15.1"
+    ],
+    "clause_count": 2
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_003",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 15.2: 48-Hour Surveyor Inspection Mandate\nUpon receiving accidental motor claim intimation, an independent surveyor must physically inspect the vehicle within 48 hours in metro cities and 72 hours in non-metro areas.",
+    "char_length": 227,
+    "clauses_present": [
+      "Clause 15.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_004",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 15.3: Fast-Track Assessment for Minor Losses\nAccidental Own Damage claims with estimated damage below \u20b920,000 may be processed on self-declaration and video survey without deputing a licensed physical surveyor.",
+    "char_length": 221,
+    "clauses_present": [
+      "Clause 15.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_005",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 15.4: Salvage Value Realization on Total Loss\nIn total loss and constructive total loss (CTL) settlements under Clause 1.4, the salvage of the damaged vehicle can be retained by the insured with a mutually agreed deduction from the IDV payout, or surrendered to the insurer.\n\n---\n\n## SECTION 16: POLICYHOLDER PROTECTION AND DIGITAL REGULATORY COMPLIANCE\n\n### Clause 16.1: Direct Bank Transfer for Free-Look Refunds\nRefunds resulting from free-look cancellations under Clause 1.1 must be credited electronically via NEFT/RTGS to the policyholder's registered bank account within 7 business days.",
+    "char_length": 605,
+    "clauses_present": [
+      "Clause 1.4",
+      "Clause 1.1",
+      "Clause 15.4",
+      "Clause 16.1"
+    ],
+    "clause_count": 4
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_006",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 16.2: Prohibition of Mid-Term Cancellation by Insurer\nAn insurer cannot cancel an active health insurance policy during the policy year on grounds of multiple claims or adverse claims experience.",
+    "char_length": 206,
+    "clauses_present": [
+      "Clause 16.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_007",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 16.3: Digital ABHA and e-Insurance Account Integration\nAll policyholders are entitled to store and view their health and general insurance contracts in electronic form through authorized Insurance Repositories linked to their Ayushman Bharat Health Account (ABHA).",
+    "char_length": 275,
+    "clauses_present": [
+      "Clause 16.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "irdai_master_circular_claims.md_semantic_008",
+    "doc_name": "irdai_master_circular_claims.md",
+    "strategy": "semantic",
+    "text": "### Clause 16.4: Zero Deductions on Electronic Hospitalization Records\nWhere cashless claims are verified electronically through the National Health Claims Exchange (NHCX), no administrative handling fees or documentation charges may be levied on the insured.",
+    "char_length": 259,
+    "clauses_present": [
+      "Clause 16.4"
+    ],
+    "clause_count": 1
   },
   {
     "chunk_id": "motor_policy_secure_drive.md_semantic_000",
@@ -1055,8 +1423,8 @@
     "text": "### Clause 1.5: Towing and Protection Expenses\nIf the insured vehicle is disabled by reason of accidental damage, the Insurer will bear the reasonable cost of protection and removal to the nearest repairer up to a maximum limit of \u20b91,500 for private cars. Any additional towing charges must be borne by the Insured unless the Roadside Assistance add-on was purchased.\n\n---\n\n## SECTION 2: LIABILITY TO THIRD PARTIES\n\n### Clause 2.1: Third Party Bodily Injury or Death Cover\nSubject to the limits of liability, the Insurer will indemnify the Insured in the event of an accident caused by or arising out of the use of the vehicle against all sums including claimant's costs and expenses which the Insured shall become legally liable to pay in respect of death of or bodily injury to any third party person. In accordance with Motor Vehicles Act, liability for bodily injury or death is unlimited.",
     "char_length": 893,
     "clauses_present": [
-      "Clause 1.5",
-      "Clause 2.1"
+      "Clause 2.1",
+      "Clause 1.5"
     ],
     "clause_count": 2
   },
@@ -1078,8 +1446,8 @@
     "text": "### Clause 2.3: Legal Expenses in Third Party Claims\nThe Insurer will pay all reasonable legal costs and expenses incurred with its prior written consent in defending any suit or criminal prosecution brought against the Insured or the Authorized Driver in connection with an accident.\n\n---\n\n## SECTION 3: COMPULSORY PERSONAL ACCIDENT COVER FOR OWNER-DRIVER\n\n### Clause 3.1: Compulsory Personal Accident (CPA) Scope\nThe Insurer undertakes to pay compensation up to a Capital Sum Insured of \u20b915,00,000 for bodily injury or death sustained by the Owner-Driver of the vehicle in direct connection with the insured vehicle whilst driving, mounting into, or dismounting from the vehicle.",
     "char_length": 681,
     "clauses_present": [
-      "Clause 2.3",
-      "Clause 3.1"
+      "Clause 3.1",
+      "Clause 2.3"
     ],
     "clause_count": 2
   },
@@ -1165,8 +1533,8 @@
     "char_length": 1218,
     "clauses_present": [
       "Clause 4.1",
-      "Clause 4.2",
-      "Clause 3.3"
+      "Clause 3.3",
+      "Clause 4.2"
     ],
     "clause_count": 3
   },
@@ -1177,9 +1545,9 @@
     "text": "### Clause 4.3: No Claim Bonus (NCB) Scale\nNo Claim Bonus (NCB) is earned on the Own Damage premium for every claim-free year according to the following progressive scale:\n- 1 claim-free year: 20% discount.\n- 2 consecutive claim-free years: 25% discount.\n- 3 consecutive claim-free years: 35% discount.\n- 4 consecutive claim-free years: 45% discount.\n- 5 consecutive claim-free years: 50% maximum discount. If a claim is lodged during the policy period, the NCB is reduced to Nil (0%) at the subsequent renewal, unless a Zero NCB Protection add-on was in effect. ### Clause 4.4: Transfer of No Claim Bonus\nNCB belongs to the Insured (vehicle owner) and not to the vehicle. Upon sale of the insured vehicle, the Insured can retain the NCB certificate and apply the earned discount to a replacement vehicle purchased within 3 years.\n\n---\n\n## SECTION 5: GENERAL EXCLUSIONS APPLICABLE TO ALL SECTIONS\n\n### Clause 5.1: Contractual Liability Exclusion\nThe policy does not cover any liability arising out of an agreement or contract entered into by the Insured which would not have attached in the absence of such contract.",
     "char_length": 1116,
     "clauses_present": [
-      "Clause 5.1",
       "Clause 4.4",
-      "Clause 4.3"
+      "Clause 4.3",
+      "Clause 5.1"
     ],
     "clause_count": 3
   },
@@ -1263,8 +1631,8 @@
     "text": "### Clause 5.7: Hydrostatic Lock and Engine Inundation\nDamage caused to the engine of the vehicle due to water ingression or hydrostatic lock caused by attempting to restart an inundated vehicle is excluded under base cover, unless an Engine Protector add-on is active.\n\n---\n\n## SECTION 6: CLAIMS SETTLEMENT AND INTIMATION RULES\n\n### Clause 6.1: Notice of Accidental Loss\nNotice shall be given in writing to the Insurer immediately upon the occurrence of any accidental loss or damage, and in the event of any claim, within 48 to 72 hours of the incident.",
     "char_length": 555,
     "clauses_present": [
-      "Clause 5.7",
-      "Clause 6.1"
+      "Clause 6.1",
+      "Clause 5.7"
     ],
     "clause_count": 2
   },
@@ -1306,10 +1674,248 @@
     "text": "### Clause 6.4: Cashless Workshop Settlement\nUnder the Cashless garage network, the Insurer directly settles approved repair costs with the authorized workshop, less the applicable depreciation (Clause 1.2), compulsory deductible (Clause 4.1), and salvage value.",
     "char_length": 262,
     "clauses_present": [
+      "Clause 1.2",
       "Clause 4.1",
-      "Clause 6.4",
-      "Clause 1.2"
+      "Clause 6.4"
     ],
     "clause_count": 3
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_000",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "# INSURANCE POLICY ADD-ONS, SCHEDULES, AND REGULATORY ANNEXURES\n\n**Regulating Authority:** Insurance Regulatory and Development Authority of India (IRDAI)  \n**Applicability:** Extended Schedules for Optima Care Health, SecureDrive Motor, and Policyholder Protection Guidelines  \n\n---\n\n## SECTION 7: HEALTH POLICY DAY CARE PROCEDURES (ANNEXURE I)\n\n### Clause 7.1: Microsurgical Eye Operations\nCovers day-care cataract surgery, vitrectomy, trabeculectomy, retinal detachment surgery, and corneal surgery with laser treatment completed under 24 hours.",
+    "char_length": 548,
+    "clauses_present": [
+      "Clause 7.1"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_001",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 7.2: ENT Surgical Procedures\nCovers myringotomy, tympanoplasty, stapedectomy, mastoidectomy, turbinectomy, nasal polypectomy, and tonsillectomy performed under local or general anesthesia.",
+    "char_length": 199,
+    "clauses_present": [
+      "Clause 7.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_002",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 7.3: Oncology Day Care Procedures\nCovers outpatient and daycare intravenous chemotherapy, radiotherapy (including intensity-modulated radiation therapy and cyberknife), and brachytherapy.",
+    "char_length": 198,
+    "clauses_present": [
+      "Clause 7.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_003",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 7.4: Urology and Nephrology Procedures\nCovers lithotripsy (ESWL) for kidney stones, transurethral resection of the prostate (TURP), ureteroscopy (URS), and dialysis for acute renal failure.",
+    "char_length": 200,
+    "clauses_present": [
+      "Clause 7.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_004",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 7.5: Orthopedic and Joint Day Care Interventions\nCovers closed reduction of fractures, arthroscopic meniscus repair, carpal tunnel decompression, and removal of internal orthopedic fixation devices.",
+    "char_length": 209,
+    "clauses_present": [
+      "Clause 7.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_005",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 7.6: Gastroenterology Day Care Interventions\nCovers therapeutic endoscopic retrograde cholangiopancreatography (ERCP), endoscopic sclerotherapy for variceal bleeding, and polypectomy of colon.\n\n---\n\n## SECTION 8: HEALTH POLICY CRITICAL ILLNESS SPECIFICATIONS (ANNEXURE II)\n\n### Clause 8.1: Cancer of Specified Severity\nCovers malignant tumor characterized by the uncontrolled growth and spread of malignant cells with invasion and destruction of normal tissue, confirmed by histological biopsy.",
+    "char_length": 505,
+    "clauses_present": [
+      "Clause 7.6",
+      "Clause 8.1"
+    ],
+    "clause_count": 2
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_006",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 8.2: Myocardial Infarction (First Heart Attack)\nCovers the death of a portion of the heart muscle arising from inadequate blood supply, evidenced by elevated cardiac enzymes (Troponin T/I) and new characteristic ECG changes.",
+    "char_length": 235,
+    "clauses_present": [
+      "Clause 8.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_007",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 8.3: Open Heart Replacement or Repair of Heart Valves\nCovers the actual undergoing of open-heart surgery to replace or repair one or more heart valves as certified by an independent cardiologist.",
+    "char_length": 206,
+    "clauses_present": [
+      "Clause 8.3"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_008",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 8.4: Kidney Failure Requiring Regular Dialysis\nCovers end-stage renal disease presenting as chronic irreversible failure of both kidneys to function, necessitating regular peritoneal or hemodialysis.",
+    "char_length": 210,
+    "clauses_present": [
+      "Clause 8.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_009",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 8.5: Major Organ and Bone Marrow Transplant\nCovers the actual undergoing of a transplant as a recipient for heart, lung, liver, kidney, pancreas, or human bone marrow using hematopoietic stem cells.",
+    "char_length": 209,
+    "clauses_present": [
+      "Clause 8.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_010",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 8.6: Stroke Resulting in Permanent Symptoms\nCovers any cerebrovascular incident producing neurological sequelae lasting at least 3 months, confirmed by modern neuro-imaging (MRI or CT scan).\n\n---\n\n## SECTION 9: MOTOR POLICY ADD-ON ENDORSEMENTS (SCHEDULE M)\n\n### Clause 9.1: Zero Depreciation (Bumper to Bumper) Cover\nIn the event of an admissible claim under Section 1 (Own Damage), no depreciation deduction specified in Clause 1.2 will be applied to replaced parts including rubber, nylon, plastic, and fiberglass.",
+    "char_length": 527,
+    "clauses_present": [
+      "Clause 1.2",
+      "Clause 9.1",
+      "Clause 8.6"
+    ],
+    "clause_count": 3
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_011",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 9.2: Engine and Gearbox Protector Add-on\nCovers repair or replacement of internal engine parts, gearbox components, differential, and power steering pump damaged solely by water ingression (hydrostatic lock) or lubricating oil leakage.",
+    "char_length": 246,
+    "clauses_present": [
+      "Clause 9.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_012",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 9.3: Return to Invoice (RTI) Cover\nIn the event of Total Loss, Constructive Total Loss (Clause 1.4), or Theft (Clause 6.2), the Insurer will pay the difference between the Insured Declared Value (IDV) and the original on-road purchase price of the vehicle including registration and road tax.",
+    "char_length": 303,
+    "clauses_present": [
+      "Clause 9.3",
+      "Clause 1.4",
+      "Clause 6.2"
+    ],
+    "clause_count": 3
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_013",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 9.4: Consumables Expense Cover\nCovers costs of consumables damaged or depleted in an accident, including engine oil, gearbox oil, brake fluid, coolant, AC refrigerant gas, nuts, bolts, washers, and oil filter.",
+    "char_length": 220,
+    "clauses_present": [
+      "Clause 9.4"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_014",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 9.5: Roadside Assistance (RSA) Emergency Cover\nProvides 24x7 roadside assistance services including flat tyre change, battery jumpstart, emergency fuel delivery (up to 5 litres), minor on-site mechanical repairs, and towing to nearest network garage up to 50 km.",
+    "char_length": 273,
+    "clauses_present": [
+      "Clause 9.5"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_015",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 9.6: Key and Lock Replacement Cover\nReimburses the cost of replacing stolen or lost vehicle keys, including recoding of electronic vehicle immobilizer system and replacement of lock assembly up to \u20b925,000 per policy year.",
+    "char_length": 232,
+    "clauses_present": [
+      "Clause 9.6"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_016",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 9.7: Daily Commute / Loss of Use Allowance\nPays a daily fixed cash allowance of \u20b91,000 per day (up to maximum 10 days) to cover local travel expenses while the insured vehicle is undergoing accidental repairs in an authorized garage.",
+    "char_length": 244,
+    "clauses_present": [
+      "Clause 9.7"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_017",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 9.8: Tyre and Rim Protection Cover\nCovers accidental damage to tyres (bulges, bursts, cut repairs) and alloy wheel rims where the damage is not accompanied by damage to the insured vehicle itself.\n\n---\n\n## SECTION 10: IRDAI OMBUDSMAN JURISDICTION & POWERS (ANNEXURE R)\n\n### Clause 10.1: Territorial Ombudsman Centers\nEstablishes 17 Insurance Ombudsman offices across India (including Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hyderabad, Ahmedabad, and Chandigarh) having exclusive territorial jurisdiction based on insurer branch location.",
+    "char_length": 552,
+    "clauses_present": [
+      "Clause 10.1",
+      "Clause 9.8"
+    ],
+    "clause_count": 2
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_018",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 10.2: Types of Complaints Entertained by Ombudsman\nThe Ombudsman entertains complaints relating to: delay in claim settlement, partial or total repudiation of claims, disputes over premium paid or payable, non-issuance of policy documents, and mis-selling.",
+    "char_length": 267,
+    "clauses_present": [
+      "Clause 10.2"
+    ],
+    "clause_count": 1
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_019",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 10.3: Ex-Gratia and Compensation Awards\nThe Ombudsman has statutory power to grant compensation for financial loss as well as harassment and mental agony, subject to the overall ceiling of \u20b930,00,000 specified in Clause 3.3.",
+    "char_length": 235,
+    "clauses_present": [
+      "Clause 3.3",
+      "Clause 10.3"
+    ],
+    "clause_count": 2
+  },
+  {
+    "chunk_id": "policy_annexures_and_schedules.md_semantic_020",
+    "doc_name": "policy_annexures_and_schedules.md",
+    "strategy": "semantic",
+    "text": "### Clause 10.4: Insurer Compliance Verification\nIf an insurer fails to comply with an Ombudsman award within 30 days of receiving the complainant's acceptance letter, the IRDAI may initiate supervisory enforcement action including regulatory penalties under Section 102 of the Insurance Act.",
+    "char_length": 292,
+    "clauses_present": [
+      "Clause 10.4"
+    ],
+    "clause_count": 1
   }
 ]

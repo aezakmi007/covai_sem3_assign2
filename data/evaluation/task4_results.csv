@@ -1,0 +1,16 @@
+Conversational Pattern,Turns,Memory Disabled (%),Memory Enabled (%),Advantage
+Coreference Across Turns,4,25.0%,100.0%,+75.0%
+Unanswerable Follow-up Without Earlier Turn,4,25.0%,100.0%,+75.0%
+Fact Correction (Newer Value Precedence),4,25.0%,100.0%,+75.0%
+Topic Switch Followed by Return,4,75.0%,100.0%,+25.0%
+Cross-Session Semantic Recall,4,25.0%,100.0%,+75.0%
+Claim Reference Number Tracking Across Turns,4,25.0%,100.0%,+75.0%
+Total Loss & Vehicle Age Follow-up,4,25.0%,100.0%,+75.0%
+Free-Look Cancellation & Refund Bank Account,4,25.0%,100.0%,+75.0%
+Engine Damage Exclusions & Add-on Coverage,4,25.0%,100.0%,+75.0%
+Senior Citizen Age and Deductible Interaction,4,25.0%,100.0%,+75.0%
+Claim Number Correction Cascade,4,25.0%,100.0%,+75.0%
+Multi-Part Material Depreciation,4,25.0%,100.0%,+75.0%
+Portability Continuity Credit Across Sessions,4,25.0%,100.0%,+75.0%
+Accidental Injury Exception to Exclusions,4,25.0%,100.0%,+75.0%
+Cross-Session Asset Transfer & Statutory Window,4,25.0%,100.0%,+75.0%

@@ -1,0 +1,3 @@
+Retrieval Method,Recall@5 (%),Mean Reciprocal Rank (MRR),Total Indexed Tokens,Avg Tokens / Chunk
+Raw Chunks (Baseline),100.0%,0.875,"16,250",52.9
+Contextualized Chunks (Anthropic-style),100.0%,0.8333,"35,505",115.7

@@ -1,4 +1,4 @@
 Strategy,Chunk Count,Mean Length (chars),Std Dev (chars),Split Clause Freq (%),Recall@5 (%)
-"Fixed-Size (500 chars, 100 ov)",82,490.3,52.5,55.93%,100.0%
-Structure-Aware (Clauses),100,313.63,116.73,47.46%,100.0%
-Semantic (Distance Thresh 0.45),127,252.94,281.16,50.85%,91.67%
+"Fixed-Size (500 chars, 100 ov)",124,487.04,60.2,38.84%,100.0%
+Structure-Aware (Clauses),165,284.3,99.5,23.14%,100.0%
+Semantic (Distance Thresh 0.45),181,266.95,248.87,24.79%,91.67%

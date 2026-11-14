@@ -1,0 +1,13 @@
+Query #,User Query,Category,Expected Route,Predicted Route,Match,Confidence,Sub-Queries,Latency
+Q01,What is my registered policy number?,Direct User State Lookup,MEMORY_DIRECT,MEMORY_DIRECT,PASS,0.95,N/A,0.1ms
+Q02,Which city do I currently live in accordin...,Direct Slot Lookup,MEMORY_DIRECT,MEMORY_DIRECT,PASS,0.95,N/A,0.0ms
+Q03,Can you remind me of my claim reference nu...,Direct Claim Reference Lookup,MEMORY_DIRECT,MEMORY_DIRECT,PASS,0.95,N/A,0.0ms
+Q04,What is the pre-hospitalization coverage w...,Single Policy Clause Retrieval,POLICY_RETRIEVAL,POLICY_RETRIEVAL,PASS,0.92,N/A,0.0ms
+Q05,Does SecureDrive motor insurance cover wat...,Motor Clause & Exclusion Retrieval,POLICY_RETRIEVAL,POLICY_RETRIEVAL,PASS,0.92,N/A,0.0ms
+Q06,What is the statutory interest rate IRDAI ...,Regulatory IRDAI Circular Retrieval,POLICY_RETRIEVAL,POLICY_RETRIEVAL,PASS,0.92,N/A,0.0ms
+Q07,What is the waiting period for pre-existin...,Multi-Part Compound Query,COMPOUND_DECOMPOSE,COMPOUND_DECOMPOSE,PASS,0.95,What is the waiting period for p...,0.1ms
+Q08,How much deductible applies for a 1600 cc ...,Multi-Part Compound Query,COMPOUND_DECOMPOSE,COMPOUND_DECOMPOSE,PASS,0.95,How much deductible applies for ...,0.0ms
+Q09,"What is the free-look period duration, and...",Cross-Document Compound Query,COMPOUND_DECOMPOSE,COMPOUND_DECOMPOSE,PASS,0.95,What is the free-look period dur...,0.0ms
+Q10,Can you give me a good chicken biryani rec...,Out-of-Scope Domain Refusal,CLARIFY_OR_REFUSE,CLARIFY_OR_REFUSE,PASS,0.98,N/A,0.0ms
+Q11,What is the current stock price of Apple o...,Out-of-Scope Domain Refusal,CLARIFY_OR_REFUSE,CLARIFY_OR_REFUSE,PASS,0.98,N/A,0.0ms
+Q12,Deductible?,Ambiguous / Underspecified Input,CLARIFY_OR_REFUSE,CLARIFY_OR_REFUSE,PASS,0.95,N/A,0.0ms

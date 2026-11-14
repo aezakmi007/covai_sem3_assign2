@@ -1,0 +1,699 @@
+[
+    {
+        "conversation_id": "conv_01_coreference",
+        "pattern": "Coreference Across Turns",
+        "description": "User names policy in Turn 1 and uses pronoun 'it' in Turn 4 to ask for deductible.",
+        "user_id": "user_rahul",
+        "session_id": "sess_c01",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "Hi, I have an Optima Care Health Insurance policy with number POL-OC-88219.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-88219",
+                    "product_type": "Optima Care Health Insurance"
+                },
+                "ground_truth_target": "Optima Care Health Insurance policy POL-OC-88219",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "Are ICU charges covered under this policy?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-88219"
+                },
+                "ground_truth_target": "Clause 2.2 covers ICU charges up to actuals under Plan B or 2% sum insured under Plan A.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "And what is the pre-hospitalization coverage duration?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-88219"
+                },
+                "ground_truth_target": "Clause 2.3 covers up to 60 days prior to admission.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "What is the deductible on it if I chose voluntary cost sharing?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-88219"
+                },
+                "ground_truth_target": "Under Optima Care Clause 4.1, voluntary deductible options are ₹10,000 or ₹25,000 per policy year.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_02_unanswerable_followup",
+        "pattern": "Unanswerable Follow-up Without Earlier Turn",
+        "description": "User states car engine size in Turn 1. Turn 2 asks for compulsory deductible, which requires engine CC.",
+        "user_id": "user_ananya",
+        "session_id": "sess_c02",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I drive a 2023 sedan with a 1600 cc petrol engine under SecureDrive Motor policy MOT-SD-40192.",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-40192",
+                    "product_type": "SecureDrive Private Car Insurance",
+                    "car_engine_cc": "1600 cc"
+                },
+                "ground_truth_target": "SecureDrive Motor Policy MOT-SD-40192 with 1600 cc engine.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "If I get into an accident, how much compulsory deductible will I have to pay out of pocket?",
+                "expected_slots": {
+                    "car_engine_cc": "1600 cc"
+                },
+                "ground_truth_target": "Under Motor Clause 4.1, private cars exceeding 1,500 cc have a compulsory deductible of ₹2,000 per claim.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "What about towing expenses to the nearest garage?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-40192"
+                },
+                "ground_truth_target": "Under Motor Clause 1.5, towing expenses are covered up to ₹1,500.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "How many hours do I have to submit written notice of accidental loss?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-40192"
+                },
+                "ground_truth_target": "Under Motor Clause 6.1, notice must be given within 48 to 72 hours of the incident.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_03_fact_correction",
+        "pattern": "Fact Correction (Newer Value Precedence)",
+        "description": "User originally states city as Mumbai, then corrects it to Bengaluru. Ombudsman question must use Bengaluru.",
+        "user_id": "user_vikram",
+        "session_id": "sess_c03",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "My health policy number is POL-OC-11204 and my residence is in Mumbai.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-11204",
+                    "city": "Mumbai"
+                },
+                "ground_truth_target": "Registered location: Mumbai",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "What is the claim settlement timeline if all my bills are submitted?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-11204"
+                },
+                "ground_truth_target": "Clause 6.6 mandates settlement within 30 days of last document receipt.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "Wait, please note that I relocated from Mumbai to Bengaluru last month.",
+                "expected_slots": {
+                    "city": "Bengaluru"
+                },
+                "ground_truth_target": "Updated registered location: Bengaluru",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "If the insurer delays my claim, which Insurance Ombudsman office has territorial jurisdiction for my complaint?",
+                "expected_slots": {
+                    "city": "Bengaluru"
+                },
+                "ground_truth_target": "Under IRDAI Annexure R Clause 10.1, the Bengaluru Ombudsman Office has jurisdiction for Bengaluru residents.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_04_topic_switch_and_return",
+        "pattern": "Topic Switch Followed by Return",
+        "description": "Discusses health insurance, switches to car NCB bonus, then returns to health post-hospitalization bills.",
+        "user_id": "user_priya",
+        "session_id": "sess_c04",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I hold an Optima Care health policy POL-OC-99381. How long do I have to submit hospital bills?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-99381"
+                },
+                "ground_truth_target": "Clause 6.3 requires bills to be submitted within 30 days of discharge.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "Switching topics: my friend has car insurance. What is the NCB discount after 3 claim-free years?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-99381"
+                },
+                "ground_truth_target": "Under Motor Clause 4.3, 3 consecutive claim-free years earns a 35% No Claim Bonus.",
+                "requires_memory": false
+            },
+            {
+                "turn": 3,
+                "user_message": "And if they make a small claim, does NCB become zero?",
+                "expected_slots": {},
+                "ground_truth_target": "Under Motor Clause 4.3, lodging a claim resets NCB to Nil (0%) unless NCB protection add-on exists.",
+                "requires_memory": false
+            },
+            {
+                "turn": 4,
+                "user_message": "Returning to my own health policy: how many days of post-hospitalization follow-up medical bills can I claim?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-99381"
+                },
+                "ground_truth_target": "Under Optima Care Clause 2.4, post-hospitalization medical expenses are covered up to 180 days.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_05_cross_session_recall",
+        "pattern": "Cross-Session Semantic Recall",
+        "description": "User stated pre-existing hypertension in Session S05_A. In new Session S05_B, asks about waiting period.",
+        "user_id": "user_deepak",
+        "session_id": "sess_c05_b",
+        "prior_session_facts": [
+            "User diagnosed with chronic hypertension in 2021 (pre-existing condition on health policy POL-OC-33100)"
+        ],
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "Hello, I am continuing from my conversation last week about my Optima Care health policy POL-OC-33100.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-33100"
+                },
+                "ground_truth_target": "Optima Care Policy POL-OC-33100.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "What is the waiting period for pre-existing diseases under this policy?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-33100"
+                },
+                "ground_truth_target": "Under Clause 3.3, pre-existing diseases carry a mandatory 36-month waiting period.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "Given my high blood pressure condition that I told you about earlier, is it eligible for claim yet?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-33100"
+                },
+                "ground_truth_target": "Recalling user diagnosis of hypertension in 2021: since more than 36 months have elapsed, pre-existing hypertension is now admissible under Clause 3.3.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "Are routine diagnostic blood pressure checks covered under domiciliary hospitalization?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-33100"
+                },
+                "ground_truth_target": "Under Clause 2.6, domiciliary hospitalization excludes routine outpatient checkups and cough/cold.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_06_claim_reference_tracking",
+        "pattern": "Claim Reference Number Tracking Across Turns",
+        "description": "User files a claim reference number in Turn 1, then asks for status and required documents in later turns.",
+        "user_id": "user_siddharth",
+        "session_id": "sess_c06",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I lodged a reimbursement claim under reference CLM-2024-8831 for my Optima Care policy.",
+                "expected_slots": {
+                    "claim_reference": "CLM-2024-8831",
+                    "product_type": "Optima Care Health Insurance"
+                },
+                "ground_truth_target": "Claim reference CLM-2024-8831 recorded.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "The insurer sent an inquiry letter. Are they allowed to send multiple staggered query letters?",
+                "expected_slots": {
+                    "claim_reference": "CLM-2024-8831"
+                },
+                "ground_truth_target": "Under IRDAI Clause 2.1, piecemeal queries are prohibited; all queries must be raised in a single communication within 15 days.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "If they delay payment beyond 30 days after I reply, do they owe me interest?",
+                "expected_slots": {
+                    "claim_reference": "CLM-2024-8831"
+                },
+                "ground_truth_target": "Under IRDAI Clause 2.4, the insurer must pay penal interest at 2% above the RBI bank rate.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "What is the maximum limit I can claim through the Insurance Ombudsman if this claim gets rejected?",
+                "expected_slots": {
+                    "claim_reference": "CLM-2024-8831"
+                },
+                "ground_truth_target": "Under IRDAI Clause 3.3, disputes up to ₹30,00,000 can be submitted to the Ombudsman.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_07_motor_salvage_ctl",
+        "pattern": "Total Loss & Vehicle Age Follow-up",
+        "description": "User discusses accidental damage to car, asks for Constructive Total Loss threshold, and salvage value.",
+        "user_id": "user_kavita",
+        "session_id": "sess_c07",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "My car insured under SecureDrive policy MOT-SD-77192 met with a severe highway accident in Pune.",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-77192",
+                    "product_type": "SecureDrive Private Car Insurance",
+                    "city": "Pune"
+                },
+                "ground_truth_target": "Policy MOT-SD-77192 registered in Pune.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "The garage estimated repair cost at ₹4,00,000 on an IDV of ₹5,00,000. Is this a Constructive Total Loss?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-77192"
+                },
+                "ground_truth_target": "Yes. ₹4,00,000 is 80% of IDV, which exceeds the 75% threshold in Motor Clause 1.4 for Constructive Total Loss.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "Can I retain the damaged car salvage myself?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-77192"
+                },
+                "ground_truth_target": "Under Master Circular Clause 15.4, the insured may retain salvage with a mutually agreed deduction from IDV.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "Since this happened in Pune, can a surveyor survey it via video call since loss is high?",
+                "expected_slots": {
+                    "city": "Pune"
+                },
+                "ground_truth_target": "No. Under Motor Clause 6.3 and 15.3, claims exceeding ₹50,000 require an independent physical surveyor inspection.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_08_free_look_cancellation",
+        "pattern": "Free-Look Cancellation & Refund Bank Account",
+        "description": "User received policy electronically, asks about free look cancellation days and refund rules.",
+        "user_id": "user_manish",
+        "session_id": "sess_c08",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I purchased an Optima Care health policy POL-OC-55021 online 10 days ago.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-55021",
+                    "product_type": "Optima Care Health Insurance"
+                },
+                "ground_truth_target": "Policy POL-OC-55021 purchased online 10 days ago.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "Can I still cancel it under the free-look period?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-55021"
+                },
+                "ground_truth_target": "Yes. Under IRDAI Clause 1.1, policies obtained electronically or via distance marketing have a 30-day Free-Look Period.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "What deductions will the insurer make from my refund?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-55021"
+                },
+                "ground_truth_target": "Under Clause 1.1, deductions include proportionate risk premium, medical examination costs, and stamp duty.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "How will they send the money and within how many days?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-55021"
+                },
+                "ground_truth_target": "Under Master Circular Clause 16.1, refund must be credited via direct bank transfer (NEFT) within 7 business days.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_09_water_ingression_hydrostatic",
+        "pattern": "Engine Damage Exclusions & Add-on Coverage",
+        "description": "User reports car stalled in flooded underpass, asks about engine repair coverage.",
+        "user_id": "user_neha",
+        "session_id": "sess_c09",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I have car insurance MOT-SD-33910. My car got stuck in water during heavy rains in Delhi.",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-33910",
+                    "city": "Delhi"
+                },
+                "ground_truth_target": "Policy MOT-SD-33910 in Delhi.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "I tried restarting the engine in the water and now it won't crank. Is internal engine repair covered?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-33910"
+                },
+                "ground_truth_target": "Under Motor Clause 5.7, damage caused by hydrostatic lock from attempting to restart is excluded under base cover.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "What add-on cover would have covered this damage?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-33910"
+                },
+                "ground_truth_target": "Under Schedule M Clause 9.2, the Engine and Gearbox Protector Add-on covers water ingression and hydrostatic lock.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "Is roadside towing covered to take it out of the underpass?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-33910"
+                },
+                "ground_truth_target": "Under Motor Clause 1.5, towing is covered up to ₹1,500 (or up to 50 km if Roadside Assistance add-on was active).",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_10_senior_citizen_copay",
+        "pattern": "Senior Citizen Age and Deductible Interaction",
+        "description": "Inquires about coverage for 65-year-old parent under Optima Care health policy.",
+        "user_id": "user_amit",
+        "session_id": "sess_c10",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I am managing health policy POL-OC-66190 for my father who is 65 years old.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66190",
+                    "product_type": "Optima Care Health Insurance"
+                },
+                "ground_truth_target": "Policy POL-OC-66190 for 65-year-old insured.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "Does he have to bear any mandatory co-payment on hospitalization claims?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66190"
+                },
+                "ground_truth_target": "Under Clause 4.2, a compulsory 10% co-payment applies to all claims for insured persons entering at or after age 61.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "If his hospital bill is ₹2,00,000 and we also have a ₹10,000 voluntary deductible, how is the payout calculated?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66190"
+                },
+                "ground_truth_target": "Deductible of ₹10,000 applies first (remaining ₹1,90,000), then 10% co-payment (₹19,000) is deducted, leaving net payout of ₹1,71,000.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "Is there any priority desk for fast-tracking his claim since he is a senior citizen?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66190"
+                },
+                "ground_truth_target": "Under Master Circular Clause 14.4, a dedicated senior citizen priority desk must process his claim within 15 days.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_11_claim_ref_correction",
+        "pattern": "Claim Number Correction Cascade",
+        "description": "User gives wrong claim ID CLM-2024-1100, then corrects it to CLM-2024-9900 in Turn 3.",
+        "user_id": "user_tanvi",
+        "session_id": "sess_c11",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I filed a claim under Optima Care POL-OC-44120 with reference CLM-2024-1100 in Kolkata.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-44120",
+                    "claim_reference": "CLM-2024-1100",
+                    "city": "Kolkata"
+                },
+                "ground_truth_target": "Claim CLM-2024-1100 in Kolkata.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "How many days does the insurer have to communicate their initial claim query?",
+                "expected_slots": {
+                    "claim_reference": "CLM-2024-1100"
+                },
+                "ground_truth_target": "Under IRDAI Clause 2.1, initial queries must be raised in a single communication within 15 days.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "Wait, I made a typo! The correct claim reference is CLM-2024-9900, not 1100.",
+                "expected_slots": {
+                    "claim_reference": "CLM-2024-9900"
+                },
+                "ground_truth_target": "Updated claim reference: CLM-2024-9900.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "Can you confirm which claim reference number is currently active on my profile?",
+                "expected_slots": {
+                    "claim_reference": "CLM-2024-9900"
+                },
+                "ground_truth_target": "Active claim reference is CLM-2024-9900.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_12_depreciation_materials",
+        "pattern": "Multi-Part Material Depreciation",
+        "description": "User states car age in Turn 1, then asks about depreciation on rubber vs glass vs metal parts.",
+        "user_id": "user_rohit",
+        "session_id": "sess_c12",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I own a 3-year-old car insured under SecureDrive policy MOT-SD-12099.",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-12099",
+                    "product_type": "SecureDrive Private Car Insurance"
+                },
+                "ground_truth_target": "Policy MOT-SD-12099 for a 3-year-old vehicle.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "If my windshield glass and front plastic bumper are broken, what depreciation applies to glass?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-12099"
+                },
+                "ground_truth_target": "Under Motor Clause 1.2, all parts made of glass have Nil (0%) depreciation.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "And what depreciation applies to the plastic bumper and rubber hoses?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-12099"
+                },
+                "ground_truth_target": "Under Motor Clause 1.2, rubber, nylon, plastic parts, and tyres suffer 50% depreciation.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "Since my car is 3 years old, what depreciation would apply to metal door replacement?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-12099"
+                },
+                "ground_truth_target": "Under Motor Clause 1.2, metal parts for vehicles aged between 2 and 3 years have a 15% depreciation rate.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_13_portability_continuity",
+        "pattern": "Portability Continuity Credit Across Sessions",
+        "description": "User ported policy with 24 months past credit. In new session, asks if cataract surgery is covered.",
+        "user_id": "user_suresh",
+        "session_id": "sess_c13_b",
+        "prior_session_facts": [
+            "User ported from Star Health to Optima Care POL-OC-70011 with 24 months of accrued continuity credit"
+        ],
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I am checking my Optima Care health policy POL-OC-70011 which I ported recently.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-70011"
+                },
+                "ground_truth_target": "Ported policy POL-OC-70011.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "What is the specific disease waiting period for cataract surgery?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-70011"
+                },
+                "ground_truth_target": "Under Clause 3.2, cataract surgery has a mandatory waiting period of 24 consecutive months.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "Considering the portability credits from my previous insurer on my profile, is cataract surgery eligible now?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-70011"
+                },
+                "ground_truth_target": "Yes. Recalling 24 months of accrued continuity credit under IRDAI Clause 1.4 and Clause 3.3, the 24-month cataract waiting period is fully satisfied.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "What is the monetary sub-limit per eye under Plan A?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-70011"
+                },
+                "ground_truth_target": "Under Clause 4.3, cataract surgery under Plan A is capped at ₹40,000 per eye.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_14_accidental_dental_exception",
+        "pattern": "Accidental Injury Exception to Exclusions",
+        "description": "User was in a highway crash. Turn 4 asks if emergency dental surgery is covered despite dental exclusion.",
+        "user_id": "user_harish",
+        "session_id": "sess_c14",
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "I suffered accidental injuries in a road traffic collision in Hyderabad under health policy POL-OC-66022.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66022",
+                    "city": "Hyderabad"
+                },
+                "ground_truth_target": "Accidental bodily injury reported under POL-OC-66022 in Hyderabad.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "Does the standard 30-day initial waiting period apply to my hospitalization?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66022"
+                },
+                "ground_truth_target": "Under Clause 3.1, the 30-day waiting period does not apply to accidental bodily injury.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "I was admitted to the hospital for 3 days and required maxillofacial and dental surgery for broken jaw bones.",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66022"
+                },
+                "ground_truth_target": "In-patient hospitalization for accidental dental/jaw surgery.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "Will the insurer reject my dental expenses citing the general dental exclusion?",
+                "expected_slots": {
+                    "policy_number": "POL-OC-66022"
+                },
+                "ground_truth_target": "No. Under Clause 5.10, dental treatment is covered if requiring hospitalization following an accidental bodily injury.",
+                "requires_memory": true
+            }
+        ]
+    },
+    {
+        "conversation_id": "conv_15_cross_session_ncb_transfer",
+        "pattern": "Cross-Session Asset Transfer & Statutory Window",
+        "description": "User sold car with 50% NCB in past session. In new session, buys new car and asks to transfer NCB.",
+        "user_id": "user_rajesh",
+        "session_id": "sess_c15_b",
+        "prior_session_facts": [
+            "User sold previous car on 2023-11-10 with 5 claim-free years and holds an active 50% NCB Reserving Certificate"
+        ],
+        "turns": [
+            {
+                "turn": 1,
+                "user_message": "Hello, I just bought a new car and took a SecureDrive policy MOT-SD-88001.",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-88001",
+                    "product_type": "SecureDrive Private Car Insurance"
+                },
+                "ground_truth_target": "New policy MOT-SD-88001.",
+                "requires_memory": false
+            },
+            {
+                "turn": 2,
+                "user_message": "Can I transfer the No Claim Bonus from the old car I sold last year to this new car?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-88001"
+                },
+                "ground_truth_target": "Yes. Recalling user's 50% NCB Reserving Certificate, Motor Clause 4.4 and FAQ 12.5 permit transfer to a replacement vehicle purchased within 3 years.",
+                "requires_memory": true
+            },
+            {
+                "turn": 3,
+                "user_message": "Does the 50% discount apply to the entire premium including third-party liability?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-88001"
+                },
+                "ground_truth_target": "Under Motor Clause 4.3, NCB applies solely to the basic Own Damage (OD) premium, not to Third Party liability.",
+                "requires_memory": true
+            },
+            {
+                "turn": 4,
+                "user_message": "What add-on can protect this 50% NCB if I lodge a claim next year?",
+                "expected_slots": {
+                    "policy_number": "MOT-SD-88001"
+                },
+                "ground_truth_target": "Under Motor Clause 4.3 and Schedule M, an NCB Protection Add-on preserves the bonus upon lodging a claim.",
+                "requires_memory": true
+            }
+        ]
+    }
+]
